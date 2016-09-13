@@ -3,11 +3,11 @@
 6.1
 - Itzultzailea: Xabier Aramendi
 - Azken berrikustzailea: Xabier Aramendi
-- Azken berrikuspena: 2016-04-30
+- Azken berrikuspena: 2016-03-29
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Heedatu / bildu artxibo zuhaitza
 txt_6_0_msq: Antolatu agiri motaz konpresio solidorako
 txt_5_9_lff: Aztertu agiriak eta agiritegiak
 txt_5_9_pff: Aztertu, erakutsi agiri idazburua/EOF

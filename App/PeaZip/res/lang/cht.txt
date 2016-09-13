@@ -934,7 +934,7 @@ txt_5_6_cml: System context menu language
 txt_5_6_donations: Donations
 txt_5_6_localization: Localization
 txt_5_6_runasadmin: Run as administrator
-txt_5_6_help: Support
+txt_5_6_help: Online support
 txt_5_5_cancelall: Cancel all
 txt_5_3_details: 詳細資料
 txt_5_3_files: 檔案

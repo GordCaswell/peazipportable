@@ -3,11 +3,11 @@ Belarusian-Cyrillic
 6.1
 Translated by: MiHLitvin (mih@mail-me.com)
 Last rev. by: MiHLitvin
-Last rev.: 20.03.2016
+Last rev.: 24.07.2016
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Разгарнуць / згарнуць дрэва архіва
 txt_6_0_msq: Сартаваць файлы па тыпе для суцэльнага пакаваньня
 txt_5_9_lff: Аналізаваць файлы й тэчкі
 txt_5_9_pff: Аналізаваць, паказаць загалоўкі файлаў/EOF

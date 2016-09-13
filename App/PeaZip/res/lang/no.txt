@@ -3,11 +3,11 @@ Norwegian - Norsk
 6.1
 Oversatt av: Rune C. Akselsen, Arne Hanssen
 Sist rev. av: Arne Hanssen
-Sist revidert: 20160228
+Sist revidert: 20160728
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Utvid / slå sammen arkiv-tre
 txt_6_0_msq: Sorter etter filtype for kompakt pakking
 txt_5_9_lff: Analyser filer og mapper
 txt_5_9_pff: Analyser, vis filer header/EOF
@@ -84,7 +84,7 @@ txt_5_3_profilepassword: Beskytt med passord, 7Z format
 txt_5_3_profile10mb: Hold utfil under 25 MB, for begrensninger i epost-vedlegg
 txt_5_3_profilesfx: Auto-utpakking, mottaker trenger ikke program for utpakking
 txt_5_3_cml: System kontekstmeny språk
-txt_5_3_cmlmessage: Dobbelklikk på ønsket kontekstmeny språk og bekreft registersmmenslåing. Innstillingen må settes på nytt når programmet installeres/oppdateres eller etter bruk av Systemintegrasjonshjelper.
+txt_5_3_cmlmessage: Dobbelklikk på ønsket kontekstmeny språk og bekreft registersammenslåing. Innstillingen må settes på nytt når programmet installeres/oppdateres eller etter bruk av Systemintegrasjonshjelper.
 txt_5_3_exc: Eksklusjonsfiltre går foran inklusjonsfiltre
 txt_5_3_ia: Inkluder også
 txt_5_3_io: Inkluder kun
@@ -604,7 +604,7 @@ txt_newfoldermenu: Pakk ut i ny mappe
 txt_extto: Pakk ut til...
 txt_level_fast: rask
 txt_fastcompr: rask kompresjon
-txt_fastopen: Rask åpnerutine, stopp søk hvis liste overskrider
+txt_fastopen: Rask åpnerutine, stopp visning av svært store arkiver, bruk filtre i stedet
 txt_level_fastest: raskeste
 txt_favformats: Favorittformater
 txt_file: Fil

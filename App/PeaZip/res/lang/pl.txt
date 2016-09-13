@@ -3,11 +3,11 @@ Polish - Polski
 6.1
 Translated by: Michał Trzebiatowski (2010, 2011), Mateusz Kacprzak <mateusz.kacprzak@yandex.ru> (2012 - 2016)
 Last rev. by: Mateusz Kacprzak using PeTrA
-Last rev.: 2016.02.27
+Last rev.: 2016.07.22
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Rozwiń / zwiń drzewo archiwum
 txt_6_0_msq: Sortuj według typu dla kompresji "bryły" plików
 txt_5_9_lff: Analizuj pliki i katalogi
 txt_5_9_pff: Analizuj, pokaż nagłówki/EOF plików

@@ -3,11 +3,11 @@ Belarusian-Latin
 6.1
 Translated by: MiHLitvin (mih@mail-me.com)
 Last rev. by: MiHLitvin
-Last rev.: 20.03.2016
+Last rev.: 24.07.2016
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Razharnuć / zharnuć dreva archiva
 txt_6_0_msq: Sartavać fajły pa typie dla sucelnaha pakavańnia
 txt_5_9_lff: Analizavać fajły j tečki
 txt_5_9_pff: Analizavać, pakazać zahałoŭki fajłaŭ/EOF

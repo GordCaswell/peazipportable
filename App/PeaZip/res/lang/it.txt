@@ -773,7 +773,7 @@ txt_pea_appcolor: Colore applicazione Pea
 txt_pea_textcolor: Colore testo Pea
 txt_type_description_pea: PEA: formato orientato alla sicurezza, compressione veloce
 txt_peazip_new: PeaZip (nuova istanza)
-txt_peazip_help: Guida di PeaZip
+txt_peazip_help: Guida online
 txt_peazip_web: Sito PeaZip
 txt_performall: Esegui tutti gli algoritmi supportati
 txt_name_provide: Non utilizzare i caratteri \ / : * ? ' " < > |
@@ -934,7 +934,7 @@ txt_5_6_cml: Lingua del menu contestuale di sistema
 txt_5_6_donations: Donazioni
 txt_5_6_localization: Localizzazione
 txt_5_6_runasadmin: Esegui come amministratore
-txt_5_6_help: Aiuto
+txt_5_6_help: Guida online
 txt_5_5_cancelall: Annulla tutto
 txt_5_3_details: Dettagli
 txt_5_3_files: file

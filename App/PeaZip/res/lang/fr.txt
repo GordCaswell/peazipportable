@@ -3,11 +3,11 @@ Français
 6.1
 Traduit par: Philippe AGUESSE
 Dernière version par: Drake4478
-Date du: 27.02.2016
+Date du: 22.07.2016
 
 === PeaZip text group ===
 
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_1_ec: Développer / réduire l’arborescence de l’archive
 txt_6_0_msq: Trier par type de fichier pour la compression solide
 txt_5_9_lff: Analyser les fichiers et dossiers
 txt_5_9_pff: Analyser, Afficher les fichiers d'en-tête/EOF
@@ -225,7 +225,7 @@ txt_4_1_runasadmin: Exécuter en tant qu'administrateur
 txt_4_1_simplesearch: Recherche simple
 txt_4_0_thim: Afficher les vignettes d'image
 txt_3_8_type_description_wim: WIM: Format d'image disque de Microsoft
-txt_3_8_type_description_xz: XZ: compression élevée basée sur LZMA2
+txt_3_8_type_description_xz: XZ: compression d'un fichier puissant basée sur LZMA2
 txt_3_7_donations: Un grand merci nous faire un dons.
 txt_3_7_nameasparent: Archive nom comme dossier parent de l'élément sélectionné, si plusieurs éléments sont ajoutés.
 txt_3_7_tracker: PeaZip tracker: bugs, demandes de fonctionnalité
@@ -432,7 +432,7 @@ txt_attach5: 5 Mo (limite d'attachement)
 txt_cd650: 650 Mo CD
 txt_7z_exitcode7: 7: Erreur: ligne de commande incorrecte
 txt_cd700: 700 Mo CD
-txt_type_description_7z: 7Z: format d'archive possédant de nombreuses fonctionnalités avec un taux de compression élevé
+txt_type_description_7z: 7Z: format d'archive riches en fonctionnalités avec un taux de compression élevé
 txt_dvddl: 8.5 Go DVD DL
 txt_7z_exitcode8: 8: Erreur: mémoire insuffisante pour l'opération demandée
 txt_abort: Abandonner les opérations planifiées de copie/déplacement de fichier ?
@@ -922,7 +922,7 @@ txt_write: Ecriture:
 txt_ramdompw_hint: Vous pouvez copier le mot de passe aléatoire généré à partir d'ici
 txt_exe_hint: Vous pouvez entrer le nom de l'exécutable nom et les paramètres de compression personnalisés et choisir la syntaxe de la contruction. Noter que vous pouvez également modifier manuellement la syntaxe de commande dans l'onglet "Console".
 txt_pj_hint2: Vous pouvez importer la définition du travail de l'interface dans le champ mémo ci-dessous. Ensuite, vous pouvez modifier, lancer, mettre sans modifier ou perdre le travail défini pour l'interface frontend.
-txt_type_description_zip: ZIP: format d'archivage/compression rapide, intégré sur les systèmes Windows
+txt_type_description_zip: ZIP: format d'archivage/compression rapide, intégrer sur les systèmes Windows
 txt_zipcrypto_hint: ZipCrypto (héritage)
 
 === end PeaZip text group ===
