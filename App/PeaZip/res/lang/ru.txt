@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Russian - русский
-6.1
+6.2
 Translated by: Rytikov Slava, Dmitry Tsvetkov, xoxmodav
 Last rev. by: 
 Last rev.: 20121227
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Показать / скрыть структуру архива
 txt_6_0_msq: Сортировать файлы по типам для создания непрерывного архива
 txt_5_9_lff: Анализировать файлы и каталоги

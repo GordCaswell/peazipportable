@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Polish - Polski
-6.1
+6.2
 Translated by: Michał Trzebiatowski (2010, 2011), Mateusz Kacprzak <mateusz.kacprzak@yandex.ru> (2012 - 2016)
 Last rev. by: Mateusz Kacprzak using PeTrA
 Last rev.: 2016.07.22
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Rozwiń / zwiń drzewo archiwum
 txt_6_0_msq: Sortuj według typu dla kompresji "bryły" plików
 txt_5_9_lff: Analizuj pliki i katalogi

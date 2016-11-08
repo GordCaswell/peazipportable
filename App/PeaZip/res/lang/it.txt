@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Italian - Italiano
-6.1
+6.2
 Tradotto da: Giorgio Tani
 Ultima rev. di: Giorgio Tani
-Ultima rev.: 20160221
+Ultima rev.: 20161030
 
 === PeaZip text group ===
 
+txt_6_2_encext: Aggiungi ".enc" agli archivi cifrati
+txt_6_2_archive: Tipo file archivio
+txt_6_2_container: Tipo file contenitore
 txt_6_1_ec: Espandi / nascondi struttura archivio
 txt_6_0_msq: Ordina per tipo file per compressione solida
 txt_5_9_lff: Esamina file e cartelle
@@ -1029,8 +1032,8 @@ txt_priority: Tasto destro per impostare la priorità
 txt_running: In esecuzione,
 txt_isrunning: In esecuzione...
 txt_saveas: Salva come
-txt_savejob: Salva definizione del lavoro
-txt_savelog: Salva log del lavoro
+txt_savejob: Salva lavoro
+txt_savelog: Salva log
 txt_software: software
 txt_speedscale: Velocità, scala logaritmica (alto, migliore)
 txt_status: Stato

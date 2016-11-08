@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Français
-6.1
+6.2
 Traduit par: Philippe AGUESSE
 Dernière version par: Drake4478
 Date du: 22.07.2016
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Développer / réduire l’arborescence de l’archive
 txt_6_0_msq: Trier par type de fichier pour la compression solide
 txt_5_9_lff: Analyser les fichiers et dossiers

@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 English
-6.1
+6.2
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
-Last rev.: 20160208
+Last rev.: 20161030
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Expand / collapse archive tree
 txt_6_0_msq: Sort by file type for solid compression
 txt_5_9_lff: Analyze files and folders
@@ -1029,7 +1032,7 @@ txt_priority: Click to set task's priority
 txt_running: Running,
 txt_isrunning: Running...
 txt_saveas: Save as
-txt_savejob: Save task definition (may include password!)
+txt_savejob: Save task definition
 txt_savelog: Save task's log
 txt_software: software
 txt_speedscale: Speed, logarithmic scale (higher, better):

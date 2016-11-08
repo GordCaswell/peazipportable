@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Belarusian-Cyrillic 
-6.1
+6.2
 Translated by: MiHLitvin (mih@mail-me.com)
 Last rev. by: MiHLitvin
 Last rev.: 24.07.2016
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Разгарнуць / згарнуць дрэва архіва
 txt_6_0_msq: Сартаваць файлы па тыпе для суцэльнага пакаваньня
 txt_5_9_lff: Аналізаваць файлы й тэчкі

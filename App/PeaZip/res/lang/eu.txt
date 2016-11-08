@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 - Euskara (Basque)
-6.1
+6.2
 - Itzultzailea: Xabier Aramendi
 - Azken berrikustzailea: Xabier Aramendi
 - Azken berrikuspena: 2016-03-29
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Heedatu / bildu artxibo zuhaitza
 txt_6_0_msq: Antolatu agiri motaz konpresio solidorako
 txt_5_9_lff: Aztertu agiriak eta agiritegiak

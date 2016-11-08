@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Turkish - Türkçe
-6.1
+6.2
 Çeviren: Umut Öcal, Bekir Uçarcı
 Son güncelleyen: Yasin Özdemir - serenler07@gmail.com - Çevrinin büyük bir kısmını (yaklaşık %95) Umut Öcal yapmıştır, ben ise çevrilmemiş alanları ve yeni katılan metinleri çevirdim | Bekir Uçarcı - bekirucarci@gmail.com - 2012 yılından bu yana eklenen kelimelerin çevirisini ben yaptım.
 Son güncelleme: 14/07/2014
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Expand / collapse archive tree
 txt_6_0_msq: Sort by file type for solid compression
 txt_5_9_lff: Analyze files and folders

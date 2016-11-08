@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Slovensky
-6.1
+6.2
 Translated by: Marek Hakl
 Last rev. by: Marek Hakl
 Last rev.: 20121215
 
 === PeaZip text group ===
 
+txt_6_2_encext: Add ".enc" suffix to encrypted archives
+txt_6_2_archive: Archive file type
+txt_6_2_container: Container file type
 txt_6_1_ec: Expand / collapse archive tree
 txt_6_0_msq: Sort by file type for solid compression
 txt_5_9_lff: Analyze files and folders
