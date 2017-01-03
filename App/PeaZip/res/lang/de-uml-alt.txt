@@ -1,19 +1,23 @@
 ﻿=== PeaZip language file ===
 German - Deutsch
-6.2
-Translated by: Tom
-Last rev. by: Tom
-Last rev.: 20160721
+6.3
+Translated by: Vacon
+Last rev. by: (Vacon)
+Last rev.: 20120410
 
 === PeaZip text group ===
 
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
 txt_6_2_encext: Add ".enc" suffix to encrypted archives
 txt_6_2_archive: Archive file type
 txt_6_2_container: Container file type
 txt_6_1_ec: Expand / collapse archive tree
 txt_6_0_msq: Wegen Solider Kompression nach Dateityp sortieren
 txt_5_9_lff: Dateien und Verzeichnisse analysieren
-txt_5_9_pff: Analysieren, Datei Überschrift anzeigen
+txt_5_9_pff: Analysieren, File Header anzeigen
 txt_5_9_start: Start von
 txt_5_8_l0: Alle unterstützte Komponenten/Formate erlauben
 txt_5_8_l1: Nur freie Software Komponenten erlauben
@@ -33,7 +37,7 @@ txt_5_6_rc: Rechts klicken für Optionen
 txt_5_6_layouts: Gespeicherte Layouts
 txt_5_6_upexisting: Bestehendes Archiv auffrischen
 txt_5_6_verbose: Verbose
-txt_5_5_case: (zwischen Groß- und Kleinbuchstaben unterscheiden)
+txt_5_5_case: (case sensitive)
 txt_5_5_add: Zeichen an der spezifizierten Position hinzufügen
 txt_5_5_addsel: zur aktuellen Auswahl hinzufügen
 txt_5_5_ext: Datei Erweiterung ändern
@@ -43,9 +47,9 @@ txt_5_5_delete: Zeichen an der angegebenen Position löschen
 txt_5_5_halt: System herunterfahren wenn die Aufgabe erledigt ist
 txt_5_5_positionw: Hint: 1 add before first char, 2 second, etc... "z" for end of file name
 txt_5_5_positionwd: Hint: 1 delete from first char included, 2 second, ... "z" for end of file name
-txt_5_5_replaceneww: Hint: Eine neue leere Zeichenfolge erstellen um die alte Zeichenfolge zu entfernen 
+txt_5_5_replaceneww: Hint: provide an empty new string to simply remove the old string
 txt_5_5_lower: Kleinbuchstaben
-txt_5_5_replaceoldw: Die Zeichenfolge oder die Buchstaben im Dateinamen verändern
+txt_5_5_replaceoldw: Modify all occurrences of this string or character in the file name
 txt_5_5_newext: Neue Erweiterung
 txt_5_5_new: Neue Zeichenfolge
 txt_5_5_n: Anzahl Zeichen, die gelöscht werden sollen
@@ -53,28 +57,28 @@ txt_5_5_old: Alte Zeichenfolge
 txt_5_5_position: Position (Nummer oder "z" für Ende)
 txt_5_5_intdir: Entferne überflüssiges Verzeichnis beim Entpacken in einen neuen Ordner
 txt_5_5_replacestr: Ersetze/entferne Zeichen
-txt_5_5_datesameday: Gleicher Tag des Ausgewählten Objekts
-txt_5_5_datesamehour: Gleiche Stunde des Ausgewählten Objekts
-txt_5_5_datesamemonth: Gleicher Monat des Ausgewählten Objekts
-txt_5_5_datesameweek: Gleicher Woche des Ausgewählten Objekts
-txt_5_5_datesameyear: Gleiches Jahr des Ausgewählten Objekts
-txt_5_5_scan: Scannen
+txt_5_5_datesameday: Same day of selected object
+txt_5_5_datesamehour: Same hour of selected object
+txt_5_5_datesamemonth: Same month of selected object
+txt_5_5_datesameweek: Same week of selected object
+txt_5_5_datesameyear: Same year of selected object
+txt_5_5_scan: Scan
 txt_5_5_select: Auswählen
-txt_5_5_similar: Ähnliches Objekt auswählen
+txt_5_5_similar: Similar to selected object
 txt_5_5_starting: Alle Objekte mit dem selben Anfangsbuchstaben
-txt_5_5_string: Zeichenfolge hinzufügen
+txt_5_5_string: String to add
 txt_5_5_subtractsel: Aus aktueller Auswahl entfernen
 txt_5_5_datehour: Diese Stunde
 txt_5_5_datemonth: Dieser Monat
 txt_5_5_dateweek: Diese Woche
 txt_5_5_dateyear: Dieses Jahr
-txt_5_5_dateday: Heute
+txt_5_5_dateday: heute
 txt_5_5_upper: Großbuchstaben
 txt_5_5_extw: Warnung: Das Ändern der Dateierweiterung kann die Datei unbrauchbar machen
 txt_5_4_da: Datum hinzugefügt
 txt_5_4_deletearchives: Archive nach erfolgreicher Extraktion löschen
 txt_5_4_deletefiles: Quelldateien nach dem Komprimieren löschen
-txt_5_4_deleteoriginal: Der Löschvorgang, wie im Hauptbildschirm eingestellt, wird dem Script angehängt.
+txt_5_4_deleteoriginal: Deletion procedure, as set in main screen, will be appended to the script.
 txt_5_4_lv: Zuletzt besucht
 txt_5_4_deletearchivesconfirm: Löschen des Original Archives bestätigen?
 txt_5_4_deletefilesconfirm: Löschen der Originaldateien bestätigen?
@@ -89,43 +93,43 @@ txt_5_3_profilesfx: Automatisches Entpacken, Empfänger benötigt keine Entpack 
 txt_5_3_cml: System Kontext Menü Sprache wechseln
 txt_5_3_cmlmessage: Klicken Sie auf die Sprache Ihrer Wahl und bestätigen Sie das Hinzufügen der .reg Datei. Dieser Vorgang muss nach jeder PeaZip Installation und nach jedem Update erneut durchgeführt werden.
 txt_5_3_exc: Ausschlussfilter haben Vorrang vor Einschlussfiltern!
-txt_5_3_ia: Ebenfalls Einbinden
+txt_5_3_ia: Include also
 txt_5_3_io: Nur folgende Elemente einschliessen
 txt_5_3_rec: Unterverzeichnisse einbeziehen
-txt_5_3_resetsi: Systemeinstellungen Reseten(Kontext menü, Senden, Dateiverbindung)?
-txt_5_2_oadd: Zum Originalpfad archivieren
+txt_5_3_resetsi: Re-configure system integration (context menu, SendTo, file associations)?
+txt_5_2_oadd: Archive to original path
 txt_5_2_zerodelete: Möchten Sie die gewünschten Elemente löschen und den Speicher sicher mit Nullen überschreiben? Diese Operation kann nicht rückgängig gemacht werden und die Datei ist nicht wiederherstellbar
 txt_5_2_zfree: Do you want to overwrite with all 0 free space on this drive?
-txt_5_2_sdfree: Sind Sie sicher, dass Sie freien Platz auf dem Laufwerk löschen wollen?
+txt_5_2_sdfree: Do you want to securely delete free space on this drive?
 txt_5_2_oext: In Verzeichnis des Archives entpacken
 txt_5_2_securedeletefree: Freie Speicherbereiche sicher löschen
 txt_5_2_free: Diese Operation kann enige Minuten in Anspruch nehmen und sollte bei Flash basiertem Speicher die Lebenszeit verkürzen
 txt_5_2_zerofiles: Unwiderrufliches Löschen
 txt_5_2_zerofree: Freie Speicherbereiche unwiderruflich löschen
-txt_5_1_schedadd: Zeitplan hinzufügen
-txt_5_1_schederr: Der Zeitplan konnte nicht erstellt werden
+txt_5_1_schedadd: Add schedule
+txt_5_1_schederr: Cannot create schedule
 txt_5_1_daily: Täglich
 txt_5_1_day: Tag
 txt_5_1_days: Tage
 txt_5_1_enddate: Enddatum
-txt_5_1_every: Jeden
+txt_5_1_every: Every
 txt_5_1_w6: Freitag
 txt_5_1_hourly: Stündlich
 txt_5_1_hours: Stunden
-txt_5_1_last: Letzte
+txt_5_1_last: Last
 txt_5_1_schedmanage: Task Scheduler, manage tasks saved in PeaZip branch
-txt_5_1_scriptmanage: Zeitplan skripte vom Manager gespeichert
+txt_5_1_scriptmanage: Manage saved scheduled scripts
 txt_5_1_w2: Montag
 txt_5_1_monthly: Monatlich
 txt_5_1_months: Monate
-txt_5_1_onlogin: Während des Login
+txt_5_1_onlogin: On login
 txt_5_1_onstart: On start
 txt_5_1_once: Einmalig
 txt_5_1_w7: Samstag
 txt_5_1_schedule: Schedule
 txt_5_1_schedexplain: Create a plain text script from GUI task definition and schedule it. Scheduled tasks' scripts are saved in "Scheduled scripts" folder. To edit or delete scheduled tasks you can use system's Task Scheduler, all scheduled tasks created by PeaZip are collected in "PeaZip" branch of the tasks library.
-txt_5_1_schedok: Zeiplan erfolreich erstellt
-txt_5_1_schedscripts: Zeitplan skripte gespeichert
+txt_5_1_schedok: Zeitplan erfolreich erstellt
+txt_5_1_schedscripts: Saved scheduled scripts
 txt_5_1_startdate: Start Datum
 txt_5_1_starttime: Start Zeit
 txt_5_1_w1: Sonntag
@@ -148,7 +152,7 @@ txt_5_0_resetbookmarks: Lesezeichen zurücksetzen? (Lesezeichen können unter Da
 txt_5_0_sh: Zuletzt verwendete Einträge
 txt_5_0_skip: Skip enumerating directories' content in layout
 txt_5_0_videos: Videos
-txt_4_9_frame: Bild
+txt_4_9_frame: Frame
 txt_4_9_listth: Liste mit Symbolen
 txt_4_9_shadow: Schatten
 txt_4_9_style: Style
@@ -157,8 +161,8 @@ txt_4_8_crop: Zuschneiden
 txt_4_8_detailsno: Detailansicht
 txt_4_8_details: Detailansicht mit Symbolen
 txt_4_8_fit: Größe ändern zu
-txt_4_8_fitl: Größe ändern zum größten
-txt_4_8_flip: umdrehen
+txt_4_8_fitl: Fit to largest
+txt_4_8_flip: Flip
 txt_4_8_fullscreen: Vollbild
 txt_4_8_fun: Funktionen
 txt_4_8_h: Höhe
@@ -387,7 +391,7 @@ txt_2_4_wcommons: Allgemeine
 txt_2_4_copyfrom: Kopieren aus
 txt_2_4_deletebookmarks: Soll die Liste von favorisierten Dateien und Verzeichnissen gelöscht werden?
 txt_2_4_documents: Dokumente
-txt_2_4_wenc: Encyclopedie
+txt_2_4_wenc: Encyclopedia
 txt_2_4_extractfrom: Entpacken aus
 txt_2_4_hexp: Hex-Vorschau
 txt_2_4_operation: Operation

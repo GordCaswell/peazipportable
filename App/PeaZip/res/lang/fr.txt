@@ -1,16 +1,20 @@
 ﻿=== PeaZip language file ===
 Français
-6.2
+6.3
 Traduit par: Philippe AGUESSE
 Dernière version par: Drake4478
-Date du: 22.07.2016
+Date du: 6.11.2016
 
 === PeaZip text group ===
 
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
-txt_6_1_ec: Développer / réduire l’arborescence de l’archive
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
+txt_6_2_encext: Ajouter le suffixe ".enc" aux archives cryptées
+txt_6_2_archive: Type de fichier d’archive
+txt_6_2_container: Type de fichier conteneur
+txt_6_1_ec: Développer/réduire l’arborescence de l’archive
 txt_6_0_msq: Trier par type de fichier pour la compression solide
 txt_5_9_lff: Analyser les fichiers et dossiers
 txt_5_9_pff: Analyser, Afficher les fichiers d'en-tête/EOF
@@ -25,7 +29,7 @@ txt_5_8_utf: Scripts besoin de plein UTF-8/Unicode environnement
 txt_5_8_fsr: Ce format est pas suported en raison des restrictions de conformité de logiciels libres (Options > Avancée)
 txt_5_7_pinstalled: INSTALLÉ
 txt_5_7_pmissing: MANQUANT
-txt_5_7_plugin: Plugin manquant, peut être installé à partir d'Aide> Rechercher les pulgin et addon
+txt_5_7_plugin: Plugin manquant, peut être installé à partir d'Aide-> Rechercher les pulgin et addon
 txt_5_6_basic: Base
 txt_5_6_exarc: Extraire l'archive
 txt_5_6_tab: Ouvrir dans un nouvel onglet
@@ -179,7 +183,7 @@ txt_4_8_rr: Tourner à droite
 txt_4_8_stop: Arrêter
 txt_4_8_t: Transformer
 txt_4_8_w: Largeur
-txt_4_7_pk: Créer mot de passe aléatoire / fichier clé
+txt_4_7_pk: Créer mot de passe aléatoire/fichier clé
 txt_4_7_spchar: Limiter les caractères des lettres et des chiffres
 txt_4_7_recycleask: Déplacer le(s) fichier(s) sélectionné(s) dans la corbeille?
 txt_4_7_recycle: Déplacer vers la Corbeille
@@ -233,7 +237,7 @@ txt_3_7_donations: Un grand merci nous faire un dons.
 txt_3_7_nameasparent: Archive nom comme dossier parent de l'élément sélectionné, si plusieurs éléments sont ajoutés.
 txt_3_7_tracker: PeaZip tracker: bugs, demandes de fonctionnalité
 txt_3_7_sort: Trier par
-txt_3_7_swapbars: La barre d'outils d'échange / barre d'adresses
+txt_3_7_swapbars: La barre d'outils d'échange/barre d'adresses
 txt_3_7_themedbars: Barres de thème
 txt_3_6_ignoredd: Toujours ignorer les chemins pour glisser et déplacer d'extraction
 txt_3_6_close: Fermer
@@ -261,12 +265,12 @@ txt_3_1_more: Renseignements
 txt_3_1_openasarchive: Ouvrir l'archive
 txt_3_1_sendto: Ouvrir le dossier de l'utilisateur envoyer à menu
 txt_3_1_pathexc: Chemin dépassant la taille maximale autorisée
-txt_3_1_recent: récents
-txt_3_1_plsmartmin: exécuter réduit, salon/keep ouvrir uniquement si nécessaire
-txt_3_1_src: recherches
-txt_3_1_systmp: système temp
-txt_3_1_languagetools: traduire !
-txt_3_1_workingdir: répertoire de travail
+txt_3_1_recent: Récents
+txt_3_1_plsmartmin: Exécuter réduit, salon/keep ouvrir uniquement si nécessaire
+txt_3_1_src: Recherches
+txt_3_1_systmp: Système temp
+txt_3_1_languagetools: Traduire !
+txt_3_1_workingdir: Répertoire de travail
 txt_3_0_nonreadableorpw: Archive semble non lisible ou protégés par mot de passe
 txt_3_0_readablepw: Archive semble le mot de passe protégé
 txt_3_0_configure: Configurer les associations de fichiers, menu contextuel et menu Envoyer vers
@@ -324,7 +328,7 @@ txt_2_7_separate: Ajouter chaque objet dans une archive séparée
 txt_2_7_pwsupported: archivage avec mot de passe
 txt_2_7_cancel: Annuler
 txt_2_7_encfn: Chiffrer également les noms de fichier.txt (si pris en charge par le format)
-txt_2_7_setpw: Entrer le mot de passe / un fichier clef
+txt_2_7_setpw: Entrer le mot de passe/un fichier clef
 txt_2_7_ext: Extraction:
 txt_2_7_extfrom: Extraction de l'archive:
 txt_2_7_es: Extrait de prise en charge non-archive fichier.txt types, Internet Explorer les fichiers exécutables, les fichiers MS Office et OOo
@@ -508,7 +512,7 @@ txt_check_hint: Vérifier les corruptions de données occasionnelles; les algori
 txt_check: Fichier la somme de contrôle/hachage
 txt_check_select: la somme de contrôle/hachage à effectuer
 txt_clear: Effacer
-txt_clearlayout: Vider
+txt_clearlayout: Effacer la mise en page
 txt_pj_hint: Cliquer sur Importation, Réinitialiser les changements et mise à jour de l'interface graphique
 txt_autoclose: Fermer PeaLauncher lorsque le travail est terminé
 txt_cl: ligne de commande:
@@ -581,7 +585,7 @@ txt_erase_hint: Effacer les fichiers: écraser avec des données aléatoires, ma
 txt_extraction_error: Erreur lors de l'extraction de l'objet sélectionné. Si l'archive est protégé par un mot de passe, indiquer-le !
 txt_exclude_hint: Exclure les fichiers, un par ligne; utiliser les caractères * et ?, les délimiteurs " et ' ne sont pas nécessaires
 txt_exclusion_recourse: Recourir à l'exclusion du filtrage des sous-répertoires
-txt_exclusion: Exclusion:
+txt_exclusion: Exclusion
 txt_exe: Exécutable
 txt_overwrite_qry: existe dans le répertoire de destination; écraser le(s) fichier(s) avec le même nom du répertoire source ? (Annuler: ignorer cette copie d'objet)
 txt_confirm_overwrite: existe; l'écraser ? (ne pas ignorer)
@@ -608,12 +612,12 @@ txt_extto: Extraire dans...
 txt_level_fast: Rapide
 txt_fastcompr: compression rapide
 txt_fastopen: Routine d'ouverture rapide, arrêter d'examiner si la liste dépasse
-txt_level_fastest: plus rapide
+txt_level_fastest: Plus rapide
 txt_favformats: Formats favoris
 txt_file: Fichier
-txt_filebrowser: Exploration de fichiers / d'archives
+txt_filebrowser: Exploration de fichiers/d'archives
 txt_filetools: Outils fichier
-txt_files: fichiers,
+txt_files: fichier(s),
 txt_nfiles: Fichiers
 txt_fs: Fichier système
 txt_filters_recourse: Recourir au filtre des sous-répertoires
@@ -634,7 +638,7 @@ txt_general: Général
 txt_multithreading: multitaches génériques
 txt_go_browser: Aller à l'explorateur de fichiers
 txt_go_path: Aller au répertoire des objets
-txt_guicl: graphique + console
+txt_guicl: Graphique + console
 txt_guipealauncher: GUI installé par PeaLauncher
 txt_graphic: Dossier graphique
 txt_gridaltcolor: Grilles de couleurs alternées
@@ -683,7 +687,7 @@ txt_keyfile_not_found: Le fichier clef est introuvable ou ne peut être lu. Veui
 txt_keyfile_notcreated: Fichier clef non créé
 txt_larger: plus grand que l'objet sélectionné
 txt_lastused: Dernière utilisation
-txt_launch: Lancer le travail
+txt_launch: Lancer la tâche
 txt_layout: Disposition
 txt_filelist_savedas: Mise en page enregistrée sous
 txt_level: Niveau
@@ -846,7 +850,7 @@ txt_show_messages: Afficher les messages d'information
 txt_showpw: Afficher le champs du contenu du mot de passe
 txt_singlevol: Volume unique
 txt_size: Taille
-txt_sizeb: Taille (o)
+txt_sizeb: Taille (O)
 txt_skip_existing: Ignorer les fichiers existants
 txt_slowercomp: compression plus lente mais décompression tout aussi rapide
 txt_smaller: plus petit que l'objet sélectionné
@@ -859,7 +863,7 @@ txt_sortbysel: Trier par l'état de sélection
 txt_list_sorting: Tri...
 txt_speed: vitesse
 txt_split: Scinder
-txt_type_description_split: Scinder un fichier avec l'option de Contrôle d'intégrité
+txt_type_description_split: Scinder un fichier avec l'option de contrôle d'intégrité
 txt_split_file: Scinder le fichier
 txt_list_nostats: Statistiques non disponibles
 txt_status: Etat
@@ -879,7 +883,7 @@ txt_taskman: Gestionnaire de tâches
 txt_caption_test: Tester
 txt_testall: Tout tester
 txt_testdisp: Tester le(s) objet(s) affiché(s)
-txt_testpw: Tester le mot de passe / le fichier clef
+txt_testpw: Tester le mot de passe/le fichier clef
 txt_testsel: Tester le(s) objet(s) sélectionné(s)
 txt_col_hint: La couleur doit être choisie de manière à bien s'intégrer avec les couleurs de l'icône et aux autres éléments de l'interface graphique
 txt_bookmarks_hint: La liste complète et éditable de signets est disponible dans l'interface de navigateur de fichiers, cliquer sur l'icône "Plus de contrôles" et sur "Historique/signets"

@@ -1,16 +1,20 @@
 ﻿=== PeaZip language file ===
 Portuguese (Portugal)
-6.2
+6.3
 Tradução: José Carlos
 Revisão: Sérgio Marques 
-Última rev.: 20151130
+Última rev.: 20161107
 
 === PeaZip text group ===
 
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
+txt_6_2_encext: Adicionar sufixo ".enc" a ficheiros cifrados
+txt_6_2_archive: Tipo de ficheiro do arquivo
+txt_6_2_container: Tipo de ficheiro do 'container'
+txt_6_1_ec: Expandir/recolher árvore de arquivos
 txt_6_0_msq: Ordenar por tipo de ficheiro para compressão mais consistente
 txt_5_9_lff: Analisar ficheiros e pastas
 txt_5_9_pff: Analisar, mostrar cabeçalho/EOF dos ficheiros
@@ -818,7 +822,7 @@ txt_sample: Amostra:
 txt_saveas: Guardar como
 txt_savehistory: Guardar dados de histórico
 txt_save_infolder: Guardar na pasta (automático)
-txt_savejob: Guardar tarefa
+txt_savejob: Guardar definição da tarefa
 txt_savejobdefinition: Guardar definições da tarefa
 txt_savejobdefinition_hint: Guardar definições da tarefa em texto simples para utilização a partir dos seus "scripts"
 txt_savelayout: Guardar disposição

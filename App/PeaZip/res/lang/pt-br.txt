@@ -1,15 +1,19 @@
 ﻿=== PeaZip language file ===
 Portuguese (Brazil) - Português
-6.2
+6.3
 Translated by: Havokdan
 Last rev. by: 20160227
 Last rev.: 20160227
 
 === PeaZip text group ===
 
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
+txt_6_2_encext: Adicionar sufixo ".enc" nos arquivos criptografados
+txt_6_2_archive: Tipo de arquivo compactado
+txt_6_2_container: Tipo de arquivo no container
 txt_6_1_ec: Expandir / agrupar árvore do arquivo
 txt_6_0_msq: Ordenar por tipo de arquivo para compressão sólida
 txt_5_9_lff: Analisar arquivos e pastas

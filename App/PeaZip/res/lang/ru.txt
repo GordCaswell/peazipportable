@@ -1,20 +1,24 @@
 ﻿=== PeaZip language file ===
 Russian - русский
-6.2
+6.3
 Translated by: Rytikov Slava, Dmitry Tsvetkov, xoxmodav
 Last rev. by: 
 Last rev.: 20121227
 
 === PeaZip text group ===
 
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
+txt_6_2_encext: Добавить ".enc" к имени зашифрованного архива
+txt_6_2_archive: Тип архива
+txt_6_2_container: Тип контейнера
 txt_6_1_ec: Показать / скрыть структуру архива
 txt_6_0_msq: Сортировать файлы по типам для создания непрерывного архива
 txt_5_9_lff: Анализировать файлы и каталоги
 txt_5_9_pff: Анализировать, показать заголовки файлов и EOF
-txt_5_9_start: Начать с
+txt_5_9_start: Открыть при старте
 txt_5_8_l0: Разрешить любые поддерживаемые компоненты/форматы
 txt_5_8_l1: Разрешить только компоненты свободного ПО
 txt_5_8_l2: Разрешить только открытые форматы архивов
@@ -75,7 +79,7 @@ txt_5_4_da: Дата добавлена
 txt_5_4_deletearchives: Удалить архивы после распаковки
 txt_5_4_deletefiles: Удалить файлы после архивации
 txt_5_4_deleteoriginal: Процедура удаления будет добавлена в скрипт в соответствии с имеющимися настройками.
-txt_5_4_lv: Последний посещённый
+txt_5_4_lv: Последний посещённый каталог
 txt_5_4_deletearchivesconfirm: Подтверждаете удаление исходных архивов?
 txt_5_4_deletefilesconfirm: Подтверждаете удаление исходных файлов?
 txt_5_4_used: Используется

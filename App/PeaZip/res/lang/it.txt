@@ -1,12 +1,16 @@
 ﻿=== PeaZip language file ===
 Italian - Italiano
-6.2
+6.3
 Tradotto da: Giorgio Tani
 Ultima rev. di: Giorgio Tani
 Ultima rev.: 20161030
 
 === PeaZip text group ===
 
+txt_6_3_autoadjust: Adatta colonne
+txt_6_3_cinfo: Info e commenti
+txt_6_3_syn: Sincronizza archivio con disco
+txt_6_3_uar: Aggiorna solo i file già in archivio
 txt_6_2_encext: Aggiungi ".enc" agli archivi cifrati
 txt_6_2_archive: Tipo file archivio
 txt_6_2_container: Tipo file contenitore

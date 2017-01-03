@@ -1,15 +1,19 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.2
+6.3
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20160730
+Last rev.: 20161223
 
 === PeaZip text group ===
 
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
+txt_6_2_encext: 在加密的文件名后添加“.enc”后缀
+txt_6_2_archive: 压缩文件类型
+txt_6_2_container: 容器文件类型
 txt_6_1_ec: 展开 / 折叠压缩文件树
 txt_6_0_msq: 对固实压缩文件按文件类型排序
 txt_5_9_lff: 分析文件和文件夹
@@ -41,8 +45,8 @@ txt_5_5_plugin: 获取插件
 txt_5_5_copypath: 复制路径
 txt_5_5_delete: 在指定的位置删除字符
 txt_5_5_halt: 任务完成后关闭计算机
-txt_5_5_positionw: 提示：1 添加到第一个字符前，2 第二个，依此类推… "z" 为文件名的末尾
-txt_5_5_positionwd: 提示：1 从第一个包含的字符开始删除，2 第二个，… "z" 为文件名的末尾
+txt_5_5_positionw: 提示：1 添加到第一个字符前，2 第二个，依此类推…“z”为文件名的末尾
+txt_5_5_positionwd: 提示：1 从第一个包含的字符开始删除，2 第二个，…“z”为文件名的末尾
 txt_5_5_replaceneww: 提示：新放个空字串来简单地移除旧字串
 txt_5_5_lower: 小写字母
 txt_5_5_replaceoldw: 在文件名中修改所有匹配的字串或字符
@@ -50,7 +54,7 @@ txt_5_5_newext: 新文件名
 txt_5_5_new: 新字串
 txt_5_5_n: 要删掉的字符数
 txt_5_5_old: 旧字串
-txt_5_5_position: 位置（用数字表示，或用 "z" 来表示结尾）
+txt_5_5_position: 位置（用数字表示，或用“z”来表示结尾）
 txt_5_5_intdir: 在“解压到新文件夹”操作中移除单个的中间目录
 txt_5_5_replacestr: 替换 / 移除字串
 txt_5_5_datesameday: 和选中项目同一天的
@@ -123,7 +127,7 @@ txt_5_1_onstart: 在启动时
 txt_5_1_once: 一次
 txt_5_1_w7: 星期六
 txt_5_1_schedule: 调度
-txt_5_1_schedexplain: 从图形界面的任务定义创建一个纯文本格式的脚本并调度它。被计划的任务脚本保存在 "Scheduled scripts" 文件夹。要编辑或删除这些文件，你可以使用系统的任务计划程序，因为所有由 PeaZip 调度的任务都已经被收集在任务计划程序库中的 "PeaZip" 分支中了。
+txt_5_1_schedexplain: 从图形界面的任务定义创建一个纯文本格式的脚本并调度它。被计划的任务脚本保存在“Scheduled scripts”文件夹。要编辑或删除这些文件，你可以使用系统的任务计划程序，因为所有由 PeaZip 调度的任务都已经被收集在任务计划程序库中的“PeaZip”分支中了。
 txt_5_1_schedok: 成功创建调度方案
 txt_5_1_schedscripts: 保存调度脚本
 txt_5_1_startdate: 起始日期
@@ -179,7 +183,7 @@ txt_4_8_rr: 右转
 txt_4_8_stop: 停止
 txt_4_8_t: 变形
 txt_4_8_w: 宽度
-txt_4_7_pk: 创建随机密码/密钥文件
+txt_4_7_pk: 创建随机密码 / 密钥文件
 txt_4_7_spchar: 仅限字母和数字
 txt_4_7_recycleask: 把选定的文件移到回收站吗？
 txt_4_7_recycle: 移到回收站
@@ -208,9 +212,9 @@ txt_4_4_confremove: 删除 PeaZip 配置信息吗？
 txt_4_3_pwmanhint: 在密码列表中，双击编辑项目，右击查看选项，Ctrl+C 复制密码
 txt_4_3_exppl: 导出密码列表
 txt_4_3_expple: 加密（备份密码管理器）
-txt_4_3_keeppw: 此次会话中不再询问密码/密钥文件
-txt_4_3_pwmanpwhint: 建议设置密码/密钥文件来加密密码列表（并非必须）。设置之后，需要验证才能访问密码管理器。您可以随时在此窗口中修改密码/密钥文件。
-txt_4_3_pwmanmaster: 设置/修改主密码
+txt_4_3_keeppw: 此次会话中不再询问密码 / 密钥文件
+txt_4_3_pwmanpwhint: 建议设置密码 / 密钥文件来加密密码列表（并非必须）。设置之后，需要验证才能访问密码管理器。您可以随时在此窗口中修改密码/密钥文件。
+txt_4_3_pwmanmaster: 设置 / 修改主密码
 txt_4_3_pwmanlist: 密码列表
 txt_4_3_pwman: 密码管理器
 txt_4_3_pwmancorr: 密码管理似乎被改动或损坏。如果您确定它没有问题，那么保持密码管理器，并尝试恢复当前的密码列表。（建议选择“否”来重置密码管理器）
@@ -233,7 +237,7 @@ txt_3_7_donations: 捐赠
 txt_3_7_nameasparent: 如果添加了多个项目，则以这些项目所在文件夹的名称命名压缩文件
 txt_3_7_tracker: PeaZip追踪器：bug、特征需求
 txt_3_7_sort: 排序
-txt_3_7_swapbars: 交换工具栏/地址栏
+txt_3_7_swapbars: 交换工具栏 / 地址栏
 txt_3_7_themedbars: 主题栏
 txt_3_6_ignoredd: 对于拖拽解压总是忽略路径
 txt_3_6_close: 关闭
@@ -324,7 +328,7 @@ txt_2_7_separate: 添加每个对象到单独的压缩文档
 txt_2_7_pwsupported: 压缩时输入密码
 txt_2_7_cancel: 取消
 txt_2_7_encfn: 加密文件名（如果格式支持）
-txt_2_7_setpw: 输入密码/密钥文件
+txt_2_7_setpw: 输入密码 / 密钥文件
 txt_2_7_ext: 正在解压：
 txt_2_7_extfrom: 正在从压缩文档中解压：
 txt_2_7_es: 解压支持的非压缩文档文件类型，比如 EXE、微软 Office 和 OpenDocument 文件
@@ -411,7 +415,7 @@ txt_exclude_recourse: “排除”递归子目录
 txt_action_extopen: “使用关联的程序解压并打开”动作
 txt_error_passwordnotmatch: 两次输入的密码不相同，请修改
 txt_action_preview: “使用关联的程序预览”动作
-txt_preview_hint: “预览”动作与"解压并打开"执行的任务相同，但是会在输出目录中创建一个临时路径，并在关闭压缩文档后自动删除它。
+txt_preview_hint: “预览”动作与“解压并打开”执行的任务相同，但是会在输出目录中创建一个临时路径，并在关闭压缩文档后自动删除它。
 txt_better: （较好）
 txt_default2: （默认）
 txt_faster: （较快）
@@ -438,7 +442,7 @@ txt_cd700: 700 MB光盘
 txt_type_description_7z: 7z: 功能丰富、压缩率高的压缩文档格式
 txt_dvddl: 8.5 GB DVD DL
 txt_7z_exitcode8: 8: 错误：内存不足
-txt_abort: 是否中止计划的文件复制/移动操作？
+txt_abort: 是否中止计划的文件复制 / 移动操作？
 txt_about: 关于
 txt_action: 动作
 txt_action_hint: 使用关联程序打开或预览时的动作
@@ -463,9 +467,9 @@ txt_all_attributes: 相同属性的所有对象
 txt_all_size: 相同大小的所有对象…
 txt_error_input_upx: 允许单个的可执行文件作为输入
 txt_always_pw: 总是询问密码
-txt_ignore_ext: 对"解压并…"，总是忽略路径
-txt_ignore_disp: 对"解压显示的…"，总是忽略路径
-txt_ignore_sel: 对"解压选定的…"，总是忽略路径
+txt_ignore_ext: 对“解压并…”，总是忽略路径
+txt_ignore_disp: 对“解压显示的…”，总是忽略路径
+txt_ignore_sel: 对“解压选定的…”，总是忽略路径
 txt_key_hint: 将密钥文件的 Hash 值添加到密码；PeaZip 和其他遵循相同标准的程序都可以解密压缩文档，或者将Hash值作为密码的一部分来输入
 txt_timestamp: 附加时间戳到压缩文档名
 txt_appoptions: 程序选项
@@ -495,12 +499,12 @@ txt_blowfish: Blowfish448（64 位块）
 txt_bookmarks: 书签
 txt_browse: 浏览
 txt_browser: 浏览器[&B]
-txt_aborted_error: 浏览压缩文档耗时太久，已停止。你可以使用搜索（F3）或退出平坦视图（F6）来更精确地选择；解压/列表/测试操作不受此操作影响。
+txt_aborted_error: 浏览压缩文档耗时太久，已停止。你可以使用搜索（F3）或退出平坦视图（F6）来更精确地选择；解压 / 列表 / 测试操作不受此操作影响。
 txt_list_browsing: 浏览：
 txt_archive_root: 浏览：压缩文档根目录
 txt_type_description_bzip2: BZip2：十分强大的压缩算法，速度一般
 txt_pw_empty: 请提供密码（或密钥文件）
-txt_add_error: 不能添加/更新或删除对象；可能仅支持对此类压缩文档的浏览 / 解压，或不支持特定的操作（比如多卷或固实压缩），或 PeaZip 不能处理压缩文档名称
+txt_add_error: 不能添加 / 更新或删除对象；可能仅支持对此类压缩文档的浏览 / 解压，或不支持特定的操作（比如多卷或固实压缩），或 PeaZip 不能处理压缩文档名称
 txt_un7z_browse_failure: 不能浏览压缩文档
 txt_list_error: 不能列出压缩文档内容，请检查压缩文档是否有密码保护或者已经损坏。
 txt_conf_cannotsave: 不能保存配置文件，请检查路径是否允许写入并且有剩余空间
@@ -541,7 +545,7 @@ txt_customapp: 自定义程序
 txt_custom_parameters: 自定义参数
 txt_customsize: 自定义大小
 txt_cut: 剪切
-txt_datetime: 日期/时间
+txt_datetime: 日期 / 时间
 txt_default: 默认
 txt_default_compression: 默认压缩
 txt_default_format: 默认格式
@@ -567,7 +571,7 @@ txt_error_emptycl: 空命令行！
 txt_encrypt: 加密
 txt_encrypted: 已加密
 txt_encryption: 加密
-txt_note: 输入备注/说明
+txt_note: 输入备注 / 说明
 txt_random_keys: 按任意健
 txt_random_keys_hint: 随便按一些键（无须记住）
 txt_ent: 熵测算
@@ -589,7 +593,7 @@ txt_explore_outpath: 浏览输出路径
 txt_explore_path: 浏览路径
 txt_ext: 扩展名:
 txt_caption_extract: 解压
-txt_ext_nopath: 解压（不包含路径啊）
+txt_ext_nopath: 解压（不包含路径）
 txt_ext_all: 全部解压
 txt_ext_allhere: 全部解压到此处
 txt_ext_allto: 全部解压到
@@ -644,7 +648,7 @@ txt_type_description_gzip: GZip：压缩速度快
 txt_here: 到此处
 txt_list_history: 历史记录
 txt_homeroot: 计算机 / 压缩文档根目录
-txt_quickbrowse_hint: 如果浏览被停止，用户可以使用搜索和过滤功能缩小选择；解压缩/列表/测试功能不受此影响。
+txt_quickbrowse_hint: 如果浏览被停止，用户可以使用搜索和过滤功能缩小选择；解压缩 / 列表 / 测试功能不受此影响。
 txt_backupexe_hint: 如果出错，导致非致命性结果，您可以从自动备份中恢复原始的可执行文件
 txt_attach: 如果邮件客户端支持此命令，压缩文档将被添加为新邮件的附件
 txt_images: 图像
@@ -731,7 +735,7 @@ txt_none2: 无
 txt_nonsolid: 非固实
 txt_level_normal: 正常
 txt_copy_error: 未成功复制或移动，错误代码：
-txt_description: 备注/说明
+txt_description: 备注 / 说明
 txt_compare_second: 选择要比较的文件
 txt_peaobj: 对象控制
 txt_displayed_obj: 对象
@@ -787,7 +791,7 @@ txt_custom_executable_missing: 请提供自定义的可执行文件的名称
 txt_type_unsupported_select: 请选择支持的压缩类型:
 txt_no_theme_name: 请指定主题名称
 txt_please_wait: 请稍候
-txt_copy_wait: 在执行其他预定的同类型操作之前，请等待当前的预定的文件复制/移动操作完成
+txt_copy_wait: 在执行其他预定的同类型操作之前，请等待当前的预定的文件复制 / 移动操作完成
 txt_previewwith: 用此预览…
 txt_projectadmin: 项目管理员:
 txt_type_description_quad: BALZ / QUAD: 高性能、基于 ROLZ 的文件压缩程序
@@ -1014,7 +1018,7 @@ txt_jobstatus: 作业状态:
 txt_jstopped: 作业被用户停止
 txt_jobstopped: 作业被用户停止；您可以点击“浏览”来检查作业的部分成果或读取作业记录。
 txt_job_success: 作业成功完成
-txt_lt: 列表/测试/修复 压缩文档
+txt_lt: 列表 / 测试 / 修复压缩文档
 txt_normal: 正常优先级
 txt_ok: 确定
 txt_output: 输出：
@@ -1076,7 +1080,7 @@ txt_time: 时间：
 在PeaZip中
 - 选择想要压缩的对象，点击“添加”按钮，同样会出现压缩文档创建窗口。
 
-添加文件/文件夹到已有的压缩文档中
+添加文件 / 文件夹到已有的压缩文档中
 在 PeaZip 中打开压缩文档（比如双击，或者拖拽压缩文档到 PeaZip 窗口或图标上），然后拖拽文件或文件夹到压缩文档中即可（或者点击“添加”按钮，使用弹出的对话框添加对象到压缩文档）。
 这将打开压缩文档创建对话框，点击确定即可完成添加。
 
@@ -1113,14 +1117,14 @@ txt_time: 时间：
 “组织”菜单含有自定义、开启或关闭浏览器的功能，比如说工具栏、地址栏、导航栏，等等。
 
 F1	帮助
-F2	浏览桌面/ Ctrl+F2 浏览用户文件夹 / Shift+F2 浏览计算机根目录 / Ctrl+Shift+F2 浏览压缩文档根目录（如果正在浏览压缩文档，否则浏览计算机根目录）
-F3	搜索（建议使用递归选项） / Ctrl+F3 开始而不递归（搜索此处） / Shift+F3 递归
+F2	浏览桌面 / Ctrl+F2 浏览用户文件夹 / Shift+F2 浏览计算机根目录 / Ctrl+Shift+F2 浏览压缩文档根目录（如果正在浏览压缩文档，否则浏览计算机根目录）
+F3	搜索（建议使用递归选项）/ Ctrl+F3 开始而不递归（搜索此处）/ Shift+F3 递归
 F4	向上一级
 F5	刷新
-F6	切换浏览/平坦视图
+F6	切换浏览 / 平坦视图
 F7	浏览最近访问的项目（Ctrl 查看第二个，Shift 查看第三个）
 F8	浏览书签列表中的第一个项目（Ctrl 查看第二个，Shift 查看第三个）
-F9	设置密码/密钥文件 / Ctrl+F9 创建密钥文件或随机密码
+F9	设置密码 / 密钥文件 / Ctrl+F9 创建密钥文件或随机密码
 F10	菜单
 F11	设置高级过滤器
 F12	全部解压到…
@@ -1132,7 +1136,7 @@ F12	全部解压到…
 
 使用:
 - “选项”标签可自定义压缩文档格式并压缩和加密相关的参数；
-- “I/O”标签用于设置输入/输出选项；
+- “I/O”标签用于设置输入 / 输出选项；
 - “过滤器”标签用于设置使用高级排除过滤器，如果可以选择压缩文档格式；
 - “控制台”标签用于发现并自定义作业语法，或输出作业为命令行。
 
@@ -1140,15 +1144,15 @@ F12	全部解压到…
 
 中压缩文档视图中您也可以:
 - 双击一个对象来打开它
-- 选择一个文件并按 "\" 键，或“文件工具 > 分割文件”来分割它
-- 选择一个文件并按 "<" 键，或“文件工具 > 比较文件”来逐字节地将其与其他文件进行比较
-- 选择多个对象并按 "?" 键，或“文件工具 > 校验/hash 文件”来校验/hash 文件
-- 选择多个对象并按 "*" 键，或“安全删除”来安全删除文件
+- 选择一个文件并按“\”键，或“文件工具 > 分割文件”来分割它
+- 选择一个文件并按“<”键，或“文件工具 > 比较文件”来逐字节地将其与其他文件进行比较
+- 选择多个对象并按“?”键，或“文件工具 > 校验 /hash 文件”来校验 /hash 文件
+- 选择多个对象并按“*”键，或“安全删除”来安全删除文件
 
 
 打开压缩文档
 
-1)   由文件关联，或从系统右键菜单和发送到菜单项目，或从 PeaZip 菜单和按钮打开压缩文档；
+1）  由文件关联，或从系统右键菜单和发送到菜单项目，或从 PeaZip 菜单和按钮打开压缩文档；
 2a） 点击“全部解缩”可解压缩压缩文档，或“全部解压缩到”并输入输出路径；
 2b） 在关联的压缩文档对象上双击或按回车键可预览它，或如果是压缩文档在 PeaZip 中打开压缩文档，或如果是目录则浏览它；
 2c） 选择打包的对象并按鼠标中键或空格键可解压缩它（会询问输出路径）；
@@ -1157,7 +1161,7 @@ F12	全部解压到…
 
 使用：
 - “选项”标签可自定义指定格式的参数；
-- “I/O”标签可设置输入/输出选项，包括“解压缩到新文件夹”开关（在右键菜单中也可使用）；
+- “I/O”标签可设置输入 / 输出选项，包括“解压缩到新文件夹”开关（在右键菜单中也可使用）；
 - “过滤器”标签用于高级的包含和排除过滤，如果压缩文档格式可用；
 - “控制台”标签可分析并自定义作业语法，或者导出作业为命令行。
 

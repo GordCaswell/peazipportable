@@ -1,12 +1,16 @@
 ﻿=== PeaZip language file ===
 English
-6.2
+6.3
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
-Last rev.: 20161030
+Last rev.: 20161130
 
 === PeaZip text group ===
 
+txt_6_3_autoadjust: Auto adjust columns
+txt_6_3_cinfo: Info and comments
+txt_6_3_syn: Synchronize archive with disk
+txt_6_3_uar: Update only files already in archive
 txt_6_2_encext: Add ".enc" suffix to encrypted archives
 txt_6_2_archive: Archive file type
 txt_6_2_container: Container file type
@@ -341,8 +345,8 @@ txt_2_7_output: Output
 txt_2_7_pwnotset: Password is not set 
 txt_2_7_pwarcset: Password is set
 txt_2_7_pwextset: Password is set, it is possible to extract/list/test encrypted archives
-txt_2_7_archivehint: Drag here files and folders to archive, or right-click for more selection options
-txt_2_7_exthint: Drag here archives to extract, or right-click for more selection options
+txt_2_7_archivehint: Drag here files and folders to archive, or right-click for more options
+txt_2_7_exthint: Drag here archives to extract, or right-click for more options
 txt_2_7_setadvf: Set advanced filters
 txt_2_7_selpath: Selected item's path
 txt_2_7_separateerror: Sorry, cannot import task definition's command line while using "Add each object to a separate archive" switch, since the task is performed as multiple distinct commands
@@ -443,7 +447,7 @@ txt_about: About
 txt_action: Action
 txt_action_hint: Action on open or preview with associated application
 txt_add: Add
-txt_add_existing_archive: add (if archive exists)
+txt_add_existing_archive: Add (if archive exists)
 txt_add_archive: Add archive
 txt_add_files: Add file(s)
 txt_add_folder: Add folder
@@ -631,7 +635,7 @@ txt_free2: free
 txt_name_full: Full name
 txt_function: Function
 txt_general: General
-txt_multithreading: generic multithreading
+txt_multithreading: Generic multithreading
 txt_go_browser: Go to file browser
 txt_go_path: Explore path (PeaZip)
 txt_guicl: Graphic + console
@@ -717,7 +721,7 @@ txt_list_na: n/a
 txt_name: Name
 txt_naming: Naming policy
 txt_unit_remote: Network drive
-txt_newarchive: new archive
+txt_newarchive: New archive
 txt_cnewfolder: New folder
 txt_news: News
 txt_no: No
@@ -726,7 +730,7 @@ txt_nocompress_hint: no compression (faster)
 txt_split_noinput: No input selected; please select a file to split
 txt_open_noinput: No input selected; please select an archive (first archive's volume for multi-volume archives)
 txt_list_nomatch: no match
-txt_singlethread: no multithreading
+txt_singlethread: No multithreading
 txt_none2: none
 txt_nonsolid: Non-solid
 txt_level_normal: Normal
@@ -908,7 +912,7 @@ txt_units: units
 txt_unit_unknown: Unknown drive type
 txt_un7z_pw_untested: Untested
 txt_up: Up
-txt_update: update (if archive exists)
+txt_update: Update (if archive exists)
 txt_type_description_upx: UPX: compress executable files only
 txt_advfilters: Use advanced filters
 txt_openfiles_hint: Use this option to include in the archive files open for writing by other applications (useful in backup tasks)
