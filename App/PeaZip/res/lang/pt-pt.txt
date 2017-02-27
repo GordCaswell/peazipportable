@@ -3,14 +3,14 @@ Portuguese (Portugal)
 6.3
 Tradução: José Carlos
 Revisão: Sérgio Marques 
-Última rev.: 20161107
+Revisto em: 20170131
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Ajustar colunas automaticamente
+txt_6_3_cinfo: Informação e comentários
+txt_6_3_syn: Sincronizar arquivo com o disco
+txt_6_3_uar: Atualizar apenas os ficheiros existentes no disco
 txt_6_2_encext: Adicionar sufixo ".enc" a ficheiros cifrados
 txt_6_2_archive: Tipo de ficheiro do arquivo
 txt_6_2_container: Tipo de ficheiro do 'container'
@@ -87,7 +87,7 @@ txt_5_3_profilebest: Melhor compressão, nível ultra do formato 7Z
 txt_5_3_profileadvanced: Compressão avançada, formato 7Z
 txt_5_3_profilenormal: Compressão ZIP normal, melhor compatibilidade
 txt_5_3_profileveryfast: Compressão ZIP muito rápida, recomendada para ficheiros multimédia grandes
-txt_5_3_profilepassword: Proteger com senha, formato 7Z
+txt_5_3_profilepassword: Proteger com palavra-passe, formato 7Z
 txt_5_3_profile10mb: Manter abaixo de 25 MB, para enviar por e-mail
 txt_5_3_profilesfx: Extração automática, para que o destinatário não precise de uma aplicação de extração
 txt_5_3_cml: Idioma do contexto de menu do sistema
@@ -141,7 +141,7 @@ txt_5_1_w4: Quarta
 txt_5_1_weekly: Semanal
 txt_5_1_weeks: Semanas
 txt_5_0_bc: Breadcrumb
-txt_5_0_resetpm: Confirma a reposição do Gestor de senhas? Todas as senhas guardadas no Gestor de senhas serão perdidas.
+txt_5_0_resetpm: Confirma a reposição do Gestor de palavras-passe? Todas as palavras-passe guardadas no Gestor de palavras-passe serão perdidas.
 txt_5_0_enum: Enumerar conteúdo da pasta
 txt_5_0_music: Música
 txt_5_0_ps: Abrir PowerShell aqui
@@ -183,7 +183,7 @@ txt_4_8_rr: Rodar à direita
 txt_4_8_stop: Parar
 txt_4_8_t: Transformar
 txt_4_8_w: Largura
-txt_4_7_pk: Criar senha/ficheiro-chave aleatoriamente
+txt_4_7_pk: Criar palavra-passe/ficheiro-chave aleatoriamente
 txt_4_7_spchar: Limitar caracteres a letras e números
 txt_4_7_recycleask: Mover seleção para a Reciclagem?
 txt_4_7_recycle: Mover para a Reciclagem
@@ -207,24 +207,24 @@ txt_4_5_shstatus: Mostrar barra de estado
 txt_4_5_shtool: Mostrar barra de ferramentas
 txt_4_5_upxpj: Não pode exportar as definições da tarefa, uma vez que esta ação ou opção requer comandos distintos
 txt_4_5_t: Em cima
-txt_4_4_confremoveall: Remover todas as personalizações PeaZip (Aplicações, Marcadores, Gestor de senhas)?
+txt_4_4_confremoveall: Remover todas as personalizações PeaZip (Aplicações, Marcadores, Gestor de palavras-passe)?
 txt_4_4_confremove: Remover configuração do PeaZip?
-txt_4_3_pwmanhint: Dois cliques para editar itens da lista de senhas, botão direito do rato para opções e Ctrl+C para copiar senhas
-txt_4_3_exppl: Exportar lista de senhas
-txt_4_3_expple: Cifrado (cópia de segurança do gestor de senhas)
-txt_4_3_keeppw: Manter senha/ficheiro-chave na sessão atual
-txt_4_3_pwmanpwhint: Recomenda-se a criação de uma senha/ficheiro-chave (opcional) para cifrar a lista de senhas. Se o fizer, necessita de se autenticar para aceder ao gestor de senhas. A senha/ficheiro-chave pode ser alterada(o) em qualquer momento
-txt_4_3_pwmanmaster: Definir/alterar senha mestre
-txt_4_3_pwmanlist: Lista de senhas
-txt_4_3_pwman: Gestor de senhas
-txt_4_3_pwmancorr: Parece que o gestor de senhas foi modificado ou está danificado. Manter gestor de senhas e tentar recuperar a lista de senhas? (Se responder não (recomendado), o gestor de senhas será restaurado
+txt_4_3_pwmanhint: Dois cliques para editar itens da lista de palavras-passe, botão direito do rato para opções e Ctrl+C para copiar palavras-passe
+txt_4_3_exppl: Exportar lista de palavras-passe
+txt_4_3_expple: Cifrado (cópia de segurança do gestor de palavras-passe)
+txt_4_3_keeppw: Manter palavra-passe/ficheiro-chave na sessão atual
+txt_4_3_pwmanpwhint: Recomenda-se a criação de uma palavra-passe/ficheiro-chave (opcional) para cifrar a lista de palavras-passe. Se o fizer, necessita de se autenticar para aceder ao gestor de palavras-passe. A palavra-passe/ficheiro-chave pode ser alterada(o) em qualquer momento
+txt_4_3_pwmanmaster: Definir/alterar palavra-passe mestre
+txt_4_3_pwmanlist: Lista de palavras-passe
+txt_4_3_pwman: Gestor de palavras-passe
+txt_4_3_pwmancorr: Parece que o gestor de palavras-passe foi modificado ou está danificado. Manter gestor de palavras-passe e tentar recuperar a lista de palavras-passe? (Se responder não (recomendado), o gestor de palavras-passe será restaurado
 txt_4_3_expplp: Texto simples
 txt_4_3_recsrc: Pesquisa recursiva por definição
-txt_4_3_resetpm: Repor gestor de senhas? Todas as senhas gravadas serão eliminadas
+txt_4_3_resetpm: Repor gestor de palavras-passe? Todas as palavras-passe gravadas serão eliminadas
 txt_4_3_breadcrumb: Mostrar endereço como "breadcrumb"
 txt_4_2_arcabspath: Utilizar caminhos absolutos
 txt_4_1_duplicateshint: Linha "tamanho/checksum" reportada na coluna CRC para todos os duplicados encontrados no diretório atual ou no filtro de pesquisa
-txt_4_1_adminhint: (Dica: alternativamente, pode solicitar a senha UAC para trabalhar em caminhos protegidos, Alt+F10 ou Opções > Executar como administrador)
+txt_4_1_adminhint: (Dica: alternativamente, pode solicitar a palavra-passe UAC para trabalhar em caminhos protegidos, Alt+F10 ou Opções > Executar como administrador)
 txt_4_1_selected: (seleção)
 txt_4_1_duplicatesfound: encontrados duplicados
 txt_4_1_duplicatesfind: Localizar duplicados
@@ -271,8 +271,8 @@ txt_3_1_src: Pesquisas
 txt_3_1_systmp: Temporários
 txt_3_1_languagetools: Traduzir
 txt_3_1_workingdir: Diretório de trabalho
-txt_3_0_nonreadableorpw: O arquivo não foi lido. Quer tentar com uma senha?
-txt_3_0_readablepw: Parece que o arquivo está protegido por senha
+txt_3_0_nonreadableorpw: O arquivo não foi lido. Quer tentar com uma palavra-passe?
+txt_3_0_readablepw: Parece que o arquivo está protegido por palavra-passe
 txt_3_0_configure: Integração de sistemas
 txt_3_0_resettmp: Repor peazip-tmp
 txt_2_9_address: Barra de endereço
@@ -323,12 +323,12 @@ txt_2_8_typeunit: Escreva o nome da unidade (lógica ou física)
 txt_2_8_usedefaultoutpath: Utilizar caminho predefinido
 txt_2_7_experimental: (experimental, veja a documentação)
 txt_2_7_optional: (opcional)
-txt_2_7_list_tryflatorpw: , soluções possíveis: tente em vista plana (F6), forneça senha (F9) e obter uma cópia do arquivo
+txt_2_7_list_tryflatorpw: , soluções possíveis: tente em vista plana (F6), forneça palavra-passe (F9) e obter uma cópia do arquivo
 txt_2_7_separate: Adicionar cada objeto a arquivos distintos
-txt_2_7_pwsupported: arquivar com senha
+txt_2_7_pwsupported: arquivar com palavra-passe
 txt_2_7_cancel: Cancelar
 txt_2_7_encfn: Cifrar nome do ficheiro (se suportado pelo formato)
-txt_2_7_setpw: Introduzir senha/ficheiro-chave
+txt_2_7_setpw: Introduzir palavra-passe/ficheiro-chave
 txt_2_7_ext: A extrair:
 txt_2_7_extfrom: A extrair do arquivo:
 txt_2_7_es: Extrair ficheiros que não são arquivos, i.e. executáveis, MS Office e ficheiros OOo
@@ -342,9 +342,9 @@ txt_2_7_oop: Abrir caminho ao concluir a tarefa
 txt_2_7_validatefn: Operação parada, detetado um nome inválido:
 txt_2_7_validatecl: Operação parada, detetado comando perigoso (i.e. a concatenação de comandos não é permitida pelo programa):
 txt_2_7_output: Saída
-txt_2_7_pwnotset: Senha não definida
-txt_2_7_pwarcset: Senha definida
-txt_2_7_pwextset: Senha definida, pode extrair/listar/testar arquivos cifrados
+txt_2_7_pwnotset: Palavra-passe não definida
+txt_2_7_pwarcset: Palavra-passe definida
+txt_2_7_pwextset: Palavra-passe definida, pode extrair/listar/testar arquivos cifrados
 txt_2_7_archivehint: Clique no botão direito para adicionar os ficheiros ao arquivo e outras funcionalidades ou arraste os ficheiros a serem adicionados
 txt_2_7_exthint: Clique no botão direito para adicionar os ficheiros a extrair e outras funcionalidades ou arraste os ficheiros a serem extraídos
 txt_2_7_setadvf: Definir filtros avançados
@@ -404,16 +404,16 @@ txt_2_4_wbook: Livro Wiki
 txt_2_4_wnews: Notícias Wiki
 txt_2_4_wsrc: Fonte Wiki
 txt_2_4_wdict: Dicionário Wiki
-txt_2_3_pw_errorchar: este carácter não pode ser utilizado pelo GUI PeaZip para senhas do sistema atual. Por favor altere a senha ou escolha o modo Consola em Ferramentas> Definições
+txt_2_3_pw_errorchar: este carácter não pode ser utilizado pelo GUI PeaZip para palavras-passe do sistema atual. Por favor altere a palavra-passe ou escolha o modo Consola em Ferramentas> Definições
 txt_2_3_envstr: Mostrar variáveis do ambiente
-txt_2_3_never_pw: Não perguntar senha
+txt_2_3_never_pw: Não perguntar palavra-passe
 txt_2_3_home: Pasta do utilizador
 txt_2_3_on_pw: Ao extrair/listar/testar operações a partir dos menus:
 txt_2_3_test_pw100: Teste de cifra para arquivos <100MB
 txt_2_3_test_pw: Teste de cifra (pode ser lento)
 txt_exclude_recourse: Excluir subdiretórios recursivos 
 txt_action_extopen: Ação "Extrair e abrir com a aplicação associada"
-txt_error_passwordnotmatch: Os campos "Senha" e "Confirmação" não coincidem. Por favor corrija.
+txt_error_passwordnotmatch: Os campos "Palavra-passe" e "Confirmação" não coincidem. Por favor corrija.
 txt_action_preview: Ação "Pré-visualizar com a aplicação associada"
 txt_preview_hint: Ação "Pré-visualizar" executa a mesma tarefa de "Extrair e abrir", mas para um caminho temporário, automaticamente removido quando fechar o arquivo.
 txt_better: (melhor)
@@ -466,11 +466,11 @@ txt_all_psize: Tamanho do ficheiro empacotado
 txt_all_attributes: Mesmos atributos
 txt_all_size: Tamanho do ficheiro
 txt_error_input_upx: permite um único ficheiro executável como fonte
-txt_always_pw: Pedir sempre senha
+txt_always_pw: Pedir sempre palavra-passe
 txt_ignore_ext: Ignorar sempre caminhos para "Extrair e..."
 txt_ignore_disp: Ignorar sempre caminhos para "Extrair exibido(s)..."
 txt_ignore_sel: Ignorar sempre caminhos para "Extrair selecionado(s)..."
-txt_key_hint: Anexar "hash" do ficheiro-chave à senha. O arquivo pode ser decifrado pelo PeaZip e outras aplicações que cumpram o mesmo padrão ou se indicar o "hash" como parte da senha
+txt_key_hint: Anexar "hash" do ficheiro-chave à palavra-passe. O arquivo pode ser decifrado pelo PeaZip e outras aplicações que cumpram o mesmo padrão ou se indicar o "hash" como parte da palavra-passe
 txt_timestamp: Anexar marca de tempo ao nome do arquivo
 txt_appoptions: Opções da aplicação
 txt_type_description_arc: ARC: arquivo experimental, poderoso, eficiente e com muitas funcionalidades
@@ -503,10 +503,10 @@ txt_aborted_error: A exploração do arquivo foi parada pois levaria muito tempo
 txt_list_browsing: A explorar
 txt_archive_root: A explorar: arquivos de root
 txt_type_description_bzip2: Bzip2: compressão bastante poderosa, velocidade média
-txt_pw_empty: Por favor indique a senha ou ficheiro chave
+txt_pw_empty: Por favor indique a palavra-passe ou ficheiro chave
 txt_add_error: Não é possível adicionar, atualizar ou eliminar objeto(s); é provável que o arquivo só tenha suporte às opções explorar/extrair ou não suporte esta operação em particular (i.e., se for multivolume ou sólido) ou o PeaZip não consegue manipular o nome do arquivo
 txt_un7z_browse_failure: não é possível explorar o arquivo
-txt_list_error: Não é possível listar o conteúdo do arquivo, verifique se o arquivo está danificado ou protegido por senha.
+txt_list_error: Não é possível listar o conteúdo do arquivo, verifique se o arquivo está danificado ou protegido por palavra-passe.
 txt_conf_cannotsave: Não é possível guardar o ficheiro de configuração, verifique se tem permissões de escrita ou espaço livre
 txt_check_hint: Verificar uma eventual corrupção de dados; os algoritmos "hash" são adequados para detetar até a adulteração de dados (veja a documentação)
 txt_check: Validar ficheiro(s) ("checksum/hash")
@@ -582,7 +582,7 @@ txt_eqorolder: igual ou mais antiga do que o objeto selecionado
 txt_eqorsmaller: igual ou menor do que o objeto selecionado
 txt_equal: igual à do objeto selecionado
 txt_erase_hint: Eliminar permanentemente: sobrescrever com dados aleatórios, mascarar, mudar nome e finalmente eliminar
-txt_extraction_error: Erro ao extrair o objeto selecionado. Se o arquivo estiver protegido por senha, indique-a
+txt_extraction_error: Erro ao extrair o objeto selecionado. Se o arquivo estiver protegido por palavra-passe, indique-a
 txt_exclude_hint: Excluir ficheiro(s), uma por linha; utilize caracteres * e ?; delimitador "e" não é necessário
 txt_exclusion_recourse: Filtros de exclusão de subdiretórios
 txt_exclusion: Excluir
@@ -770,10 +770,10 @@ txt_poi: parâmetros, saída, entrada
 txt_parameters: Parâmetros:
 txt_error_partial: A extração parcial não está implementada para o arquivo atual
 txt_passes: Passagens
-txt_pw: Senha
-txt_pwlength: Tamanho da senha em caracteres (4..64)
-txt_un7z_browse_pw: pode precisar de senha
-txt_un7z_browse_pw_other: a senha pode estar errada
+txt_pw: Palavra-passe
+txt_pwlength: Tamanho da palavra-passe em caracteres (4..64)
+txt_un7z_browse_pw: pode precisar de palavra-passe
+txt_un7z_browse_pw_other: a palavra-passe pode estar errada
 txt_paste: Colar
 txt_path: Caminho
 txt_pea_appcolor: Cor da aplicação Pea
@@ -816,7 +816,7 @@ txt_reset_archivename: Repor nome do arquivo
 txt_hardreset: Repor marcadores
 txt_reset_theme: Repor tema original
 txt_restore_att: restaurar atributos originais
-txt_run_as: Executar como (não pode mudar para utilizadores com senhas em branco)
+txt_run_as: Executar como (não pode mudar para utilizadores com palavras-passe em branco)
 txt_run_as2: Executar como outro utilizador
 txt_sample: Amostra:
 txt_saveas: Guardar como
@@ -847,7 +847,7 @@ txt_settings: Definições
 txt_sfx_interface: Interface sfx
 txt_showhints: Mostrar dicas
 txt_show_messages: Mostrar informações
-txt_showpw: Mostrar conteúdo do campo Senha
+txt_showpw: Mostrar conteúdo do campo Palavra-passe
 txt_singlevol: Volume único
 txt_size: Tamanho
 txt_sizeb: Tamanho (B)
@@ -871,7 +871,7 @@ txt_level_store: Armazenar
 txt_stream_control: Controlo de fluxo
 txt_strip: Remoção antes de UPX (recomendado)
 txt_keyfile_created: Ficheiro-chave criado como:
-txt_suggestpw: Criar senha aleatoriamente
+txt_suggestpw: Criar palavra-passe aleatoriamente
 txt_noupx: Símbolos removidos, compressão UPX omitida
 txt_syntax: Sintaxe:
 txt_sysbenchmark: Avaliação do sistema
@@ -883,7 +883,7 @@ txt_taskman: Gestão de tarefas
 txt_caption_test: Testar
 txt_testall: Testar todos
 txt_testdisp: Testar objeto(s) exibidos(s)
-txt_testpw: Testar senha/ficheiro-chave
+txt_testpw: Testar palavra-passe/ficheiro-chave
 txt_testsel: Testar objeto(s) selecionado(s)
 txt_col_hint: A cor deve ser escolhida por forma a potenciar uma boa integração com os ícones e outros elementos da interface
 txt_bookmarks_hint: A lista de marcadores, total e editável, está disponível no explorador de ficheiros ao clicar no ícone "Mais controlos" e em "Alternar histórico/marcadores"
@@ -926,7 +926,7 @@ txt_websearch: Pesquisa web
 txt_websites: Sítios web
 txt_word: Palavra
 txt_write: Escrita:
-txt_ramdompw_hint: Pode copiar a senha gerada a partir daqui
+txt_ramdompw_hint: Pode copiar a palavra-passe gerada a partir daqui
 txt_exe_hint: Pode indicar livremente o nome e os parâmetros do executável para compressão personalizada e escolher a sintaxe. Tenha em atenção que também pode alterar manualmente a sintaxe do comando no separador "Consola".
 txt_pj_hint2: Pode importar a definição das tarefas a partir da interface gráfica. Então pode editar, executar ou guardar sem alterar ou perder a tarefa definida para a interface gráfica.
 txt_type_description_zip: ZIP: formato de arquivo/compressão rápido, utilizado principalmente em sistemas Windows
@@ -964,13 +964,13 @@ txt_3_5_close: Fechar
 txt_3_0_details: Para mais detalhes, o "Relatório" contém o registo da tarefa e a "Consola" contém a definição da tarefa como linha de comandos.
 txt_3_0_hints: Dicas sobre o erro
 txt_3_0_arc: Alguns ficheiros não puderam ser lidos (podem estar bloqueados, não acessíveis ou danificados)
-txt_3_0_ext: Pode ser que o arquivo necessite de uma senha diferente para esta operação
+txt_3_0_ext: Pode ser que o arquivo necessite de uma palavra-passe diferente para esta operação
 txt_2_8_oop: Abrir destino ao concluir a tarefa
 txt_2_7_validatefn: Operação interrompida, nome inválido detetado:
 txt_2_7_validatecl: Operação interrompida, comando perigoso detetado (i.e., a concatenação de comandos não é permitida):
 txt_2_6_open: Abrir arquivo
 txt_2_5_ace_missing: O "plugin" UNACE não está instalado; para manipular arquivos ACE pode transferir o "plug-in" no sítio web PeaZip (UNACE tem o código fechado, o "plugin" não está no pacote base)
-txt_2_3_pw_errorchar_gwrap: : este caractere não pode ser utilizado pelo PeaLauncher nas senhas do sistema atual. Por favor altere a senha ou use o PeaZip no modo de Console (Ferramentas > Definições)
+txt_2_3_pw_errorchar_gwrap: : este caractere não pode ser utilizado pelo PeaLauncher nas palavras-passe do sistema atual. Por favor altere a palavra-passe ou use o PeaZip no modo de Console (Ferramentas > Definições)
 txt_2_3_renameexisting: Mudar automaticamente o nome dos ficheiros existentes
 txt_2_3_renameextracted: Mudar automaticamente o nome dos ficheiros extraídos
 txt_2_3_cancel: Cancelar
@@ -982,7 +982,7 @@ txt_2_3_moreoptions: Mais opções...
 txt_2_3_nopaths: Sem caminhos
 txt_2_3_options: Opções
 txt_2_3_overexisting: Sobrescrever ficheiros existentes
-txt_2_3_pw: Senha
+txt_2_3_pw: Palavra-passe
 txt_2_3_skipexisting: Ignorar ficheiros existentes
 txt_job_unknown: : Foi encontrado um erro desconhecido
 txt_stdjob: [a animação irá parar após a conclusão da tarefa]
@@ -1036,7 +1036,7 @@ txt_priority: Clique para definir a prioridade da tarefa
 txt_running: A executar,
 txt_isrunning: A executar...
 txt_saveas: Guardar como
-txt_savejob: Guardar definição da tarefa (pode incluir senha!)
+txt_savejob: Guardar definição da tarefa
 txt_savelog: Guardar registo da tarefa
 txt_software: programas
 txt_speedscale: Velocidade, escala logarítmica (maior, melhor):
@@ -1053,10 +1053,10 @@ txt_time: Duração:
 EXTRAIR ARQUIVO(S)
 Do sistema 
 - clique com o botão direito do rato no(s) arquivo(s) e no menu de contexto escolha "Extrair aqui" ou "Extrair aqui (em nova pasta)" para extrair sem mais interação
-- ou utilize a entrada do menu "Extrair..." para opções detalhadas: destino, senha, extrair ficheiros noutro diretório e escolher ignorar, mudar nome ou substituir o(s) ficheiro(s) existente(s)
+- ou utilize a entrada do menu "Extrair..." para opções detalhadas: destino, palavra-passe, extrair ficheiros noutro diretório e escolher ignorar, mudar nome ou substituir o(s) ficheiro(s) existente(s)
 
 Abrir um arquivo no Peazip, i.e: duplo clique ou arrastando um arquivo para a janela ou ícone PeaZip
-- na barra de ferramentas ou no menu de contexto, clique em "Extrair" para só extrair o objeto selecionado através da janela de confirmação e que lhe permite definir todas as opções (destino, senha, política de nomeação, extrair para um novo diretório...)
+- na barra de ferramentas ou no menu de contexto, clique em "Extrair" para só extrair o objeto selecionado através da janela de confirmação e que lhe permite definir todas as opções (destino, palavra-passe, política de nomeação, extrair para um novo diretório...)
 - arrastar pastas e ficheiros para o destino pretendido e só o conteúdo selecionado será extraido (para mais informações, veja o capítulo sobre como arrastar e largar no PeaZip)
 - na barra de ferramentas, clicar no botão de extração à direita de "Extrair" e que lhe permite extrair diretamente todo o arquivo para os destinos habituais (ignorando a janela de confirmação) e para definir as opções principais; atalhos de teclado: Ctrl+E (ou F12) extrai todo o arquivo e pergunta pelo destino; Ctrl+Alt+E extrai o arquivo na pasta atual; Ctrl+Shift+E extrai para o ambiente de trabalho; Ctrl+Alt+Shift+E extrai para Documentos; Ctrl+1..8 extrai para o destino dos marcadores 1..8 (se existentes)
 
@@ -1068,9 +1068,9 @@ Abrir um arquivo no PeaZip, i.e. com duplo clique ou arrastando um arquivo para 
 - arrastar pastas e ficheiros para o destino pretendido: só será extraído o conteúdo selecionado
 - no grupo "Extrair" do menu de contexto, escolha "Extrair selecionado(s)" (para extrair os itens selecionados) ou "Extrair exibido(s)" (para extrair o conteúdo do diretório/filtro atual)
 
-INDICAR A SENHA PARA EXPLORAR OU EXTRAIR UM ARQUIVO
-Clique no ícone para introduzir a senha e , opcionalmente, um ficheiro-chave.
-O ícone está presente tanto no navegador de ficheiros do PeaZip como na interface de extração; assim que definir uma senha, o ícone muda de cor.
+INDICAR A PALAVRA-PASSE PARA EXPLORAR OU EXTRAIR UM ARQUIVO
+Clique no ícone para introduzir a palavra-passe e , opcionalmente, um ficheiro-chave.
+O ícone está presente tanto no navegador de ficheiros do PeaZip como na interface de extração; assim que definir uma palavra-passe, o ícone muda de cor.
 
 CRIAR UM ARQUIVO
 Do sistema
@@ -1089,7 +1089,7 @@ Durante a criação de arquivos explicada acima, escolha na caixa do menu a opç
 A maioria dos arquivos tem suporte a esta opção.
 
 CRIAR UM ARQUIVO CIFRADO
-Clique no cadeado para introduzir uma senha e opcionalmente um ficheiro-chave; o ícone está presente na barra de estado do PeaZip e na interface de criação de arquivos.
+Clique no cadeado para introduzir uma palavra-passe e opcionalmente um ficheiro-chave; o ícone está presente na barra de estado do PeaZip e na interface de criação de arquivos.
 Para ocultar os nomes dos ficheiros/pastas do arquivo, marque a opção "Cifrar nome(s) do(s) ficheiro(s)". Tenha em atenção que a opção apenas será aplicada se o formato do arquivo a criar tenha suporte a esta funcionalidade. (ex: 7Z e ARC)
 Tenha também em atenção que na interface de criação do arquivo, juntamente ao cadeado, existe um aviso que informa se a cifra está definida e se o formato do arquivo tem suporte a cifra.
 
@@ -1104,10 +1104,10 @@ CRIAR DIRETAMENTE FICHEIROS NUM FORMATO E NÍVEL DE COMPRESSÃO ESPECIFICO
 Utilizando o processo "Integração de sistemas" no menu de opções, é possível integrar ao menu de contexto a opção de adicionar diretamente os ficheiros/pastas para um ficheiro ZIP, 7Z ou SFX.
 Para os formatos Zip e 7Z também é possivel ativar no menu de contexto, opções para comprimir nos níveis mais rápido, normal ou ultra, suprimindo a escolha do nível de compressão.
 
-GESTOR DE SENHAS
-O gestor de senhas está acessível no menu Ferramentas > Gestor de senhas ou no formulário de senhas, na lista suspensa ao lado esquerdo da senha.
-As senhas gravadas podem ser selecionadas na lista suspensa acima referida ou copiadas no gestor de senhas para serem utilizadas nas outras aplicações.
-Se não definir uma senha mestre para o gestor de senhas, a lista de senhas estar acessível a todas as pessoas, sem qualquer confirmação de autenticação mas se for definida a lista não estará acessível até que seja inserida a senha mestre.
+GESTOR DE PALAVRAS-PASSE
+O gestor de palavras-passe está acessível no menu Ferramentas > Gestor de palavras-passe ou no formulário de palavras-passe, na lista suspensa ao lado esquerdo da palavra-passe.
+As palavras-passe gravadas podem ser selecionadas na lista suspensa acima referida ou copiadas no gestor de palavras-passe para serem utilizadas nas outras aplicações.
+Se não definir uma palavra-passe mestre para o gestor de palavras-passe, a lista de palavras-passe estar acessível a todas as pessoas, sem qualquer confirmação de autenticação mas se for definida a lista não estará acessível até que seja inserida a palavra-passe mestre.
 
 CONFIGURAR A APLICAÇÃO
 Opções > Idioma (e nas opções > Definições, 1.º separador) permite-lhe definir o idioma da aplicação
@@ -1124,7 +1124,7 @@ F5	atualizar
 F6	trocar entre vista plana/navegador
 F7	adicionar aos marcadores / Ctrl+F7 abrir nova instância do PeaZip / Shift+F7 abrir linha de comandos no caminho selecionado / Alt+F7 explorar caminho selecionado
 F8	procurar o primeiro item na lista de marcadores (Ctrl, segundo, Shift, terceiro)
-F9	definir senha ou ficheiro-chave / Ctrl+F9 criar ficheiro-chave ou palavra-passe aleatória / Shift+F9 definir filtros avançados
+F9	definir palavra-passe ou ficheiro-chave / Ctrl+F9 criar ficheiro-chave ou palavra-passe aleatória / Shift+F9 definir filtros avançados
 F10		menu / Ctrl+F10 executar com outro utilizador / Alt+F10 executar como administrator (Windows Vista e mais recentes)
 F11		trocar entre acrã completo/janela
 F12		extrair tudo para...
@@ -1135,7 +1135,7 @@ PeaZip é um gestor de arquivos de código livre e multiplataforma, disponível 
 
 O PeaZip permite-lhe aplicar diversos filtros de pesquisa ao conteúdo dos arquivos; criar e extrair diversos arquivos em simultâneo; criar arquivos de extração automática; exportar definições de tarefas como linha de comandos; guardar disposições de arquivação e extração; marcar arquivos e pastas; procurar e abrir com aplicações personalizadas, comprimir e descomprimir ficheiros, etc...
 
-Outras funcionalidades: cifra de ficheiros, copiar/separar/unir ficheiros, eliminação permanente, comparações, validação de códigos "hash" e "checksum", análises de desempenho, geração de senhas e ficheiros chave.
+Outras funcionalidades: cifra de ficheiros, copiar/separar/unir ficheiros, eliminação permanente, comparações, validação de códigos "hash" e "checksum", análises de desempenho, geração de palavras-passe e ficheiros chave.
 
 Transferências : http://www.peazip.org/
 Saber mais: http://www.peazip.org/peazip-free-archiver.html

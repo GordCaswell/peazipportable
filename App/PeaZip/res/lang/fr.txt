@@ -3,14 +3,14 @@ Français
 6.3
 Traduit par: Philippe AGUESSE
 Dernière version par: Drake4478
-Date du: 6.11.2016
+Date du: 1.01.2017
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Colonnes d'ajustement automatique
+txt_6_3_cinfo: Infos et commentaires
+txt_6_3_syn: Synchroniser l’archive avec disque
+txt_6_3_uar: Mise à jour uniquement les fichiers déjà en archives
 txt_6_2_encext: Ajouter le suffixe ".enc" aux archives cryptées
 txt_6_2_archive: Type de fichier d’archive
 txt_6_2_container: Type de fichier conteneur

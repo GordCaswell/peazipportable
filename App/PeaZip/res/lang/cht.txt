@@ -3,87 +3,87 @@ Chinese Traditional - 繁體中文
 6.3
 譯者: Sophina Liu, Hsiu-Ming Chang
 Last rev. by: Hsiu-Ming Chang
-Last rev.: 20140517
+Last rev.: 20170113
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
-txt_6_1_ec: Expand / collapse archive tree
-txt_6_0_msq: Sort by file type for solid compression
-txt_5_9_lff: Analyze files and folders
-txt_5_9_pff: Analyze, show files header/EOF
-txt_5_9_start: Start from
-txt_5_8_l0: Allow any supported component/format
-txt_5_8_l1: Allow only Free Software components
-txt_5_8_l2: Allow only open archive formats
-txt_5_8_ascii: ASCII safe, scripts are safe on legacy environments
-txt_5_8_cp: Code Page safe, scripts may trigger problems on legacy environments with different Code Pages
-txt_5_8_fs: Free Software compliance
-txt_5_8_utf: Scripts need full UTF-8 / Unicode environment
-txt_5_8_fsr: This format is not suported due Free Software compliance restrictions (Options > Advanced)
-txt_5_7_pinstalled: INSTALLED
-txt_5_7_pmissing: MISSING
-txt_5_7_plugin: Plugin missing, can be installed from Help > Check for pulgin and addon
-txt_5_6_basic: Basic
-txt_5_6_exarc: Extract archive
-txt_5_6_tab: Open in new tab
-txt_5_6_rc: Right click for options
-txt_5_6_layouts: Saved layouts
-txt_5_6_upexisting: Update existing archive
-txt_5_6_verbose: Verbose
-txt_5_5_case: (case sensitive)
-txt_5_5_add: Add string at specified position
-txt_5_5_addsel: Add to current selection
-txt_5_5_ext: Change files extension
-txt_5_5_plugin: Check for plugin and addon
-txt_5_5_copypath: Copy path
-txt_5_5_delete: Delete characters at specified position
-txt_5_5_halt: Halt system when task completes
-txt_5_5_positionw: Hint: 1 add before first char, 2 second, etc... "z" for end of file name
-txt_5_5_positionwd: Hint: 1 delete from first char included, 2 second, ... "z" for end of file name
-txt_5_5_replaceneww: Hint: provide an empty new string to simply remove the old string
-txt_5_5_lower: Lowercase
-txt_5_5_replaceoldw: Modify all occurrences of this string or character in the file name
-txt_5_5_newext: New extension
-txt_5_5_new: New string
-txt_5_5_n: Number of characters to delete
-txt_5_5_old: Old string
-txt_5_5_position: Position (number or "z" for end)
-txt_5_5_intdir: Remove redundant directory on extraction in new folder
-txt_5_5_replacestr: Replace/remove string
-txt_5_5_datesameday: Same day of selected object
-txt_5_5_datesamehour: Same hour of selected object
-txt_5_5_datesamemonth: Same month of selected object
-txt_5_5_datesameweek: Same week of selected object
-txt_5_5_datesameyear: Same year of selected object
-txt_5_5_scan: Scan
-txt_5_5_select: Select
-txt_5_5_similar: Similar to selected object
-txt_5_5_starting: Starting with same character
-txt_5_5_string: String to add
-txt_5_5_subtractsel: Subtract from current selection
-txt_5_5_datehour: This hour
-txt_5_5_datemonth: This month
-txt_5_5_dateweek: This week
-txt_5_5_dateyear: This year
-txt_5_5_dateday: Today
-txt_5_5_upper: Uppercase
-txt_5_5_extw: Warning: changing file extension the file may become unusable
-txt_5_4_da: Date added
-txt_5_4_deletearchives: Delete archives after extraction
-txt_5_4_deletefiles: Delete files after archiving
-txt_5_4_deleteoriginal: Deletion procedure, as set in main screen, will be appended to the script.
-txt_5_4_lv: Last visited
-txt_5_4_deletearchivesconfirm: Confirm deletion of original archives?
-txt_5_4_deletefilesconfirm: Confirm deletion of original files?
-txt_5_4_used: Used
-txt_5_3_profilebest: 最佳壓縮，7Z格式極度等級
+txt_6_3_autoadjust: 自動調整欄位
+txt_6_3_cinfo: 資訊和註解
+txt_6_3_syn: 同步壓縮檔與磁碟
+txt_6_3_uar: 只更新已經在壓縮檔裡的檔案
+txt_6_2_encext: 加入 ".enc" 後綴到加密的壓縮檔
+txt_6_2_archive: 壓縮檔檔案類型
+txt_6_2_container: 容器檔案類型
+txt_6_1_ec: 展開 / 折疊壓縮檔樹狀目錄
+txt_6_0_msq: 對實體壓縮依照檔案類型排列
+txt_5_9_lff: 分析檔案和資料夾
+txt_5_9_pff: 分析、顯示檔案開頭/結尾
+txt_5_9_start: 開始於
+txt_5_8_l0: 允許任何支援的元件/格式
+txt_5_8_l1: 只允許自由軟體元件
+txt_5_8_l2: 只允許開放的壓縮檔格式
+txt_5_8_ascii: ASCII 安全，腳本在舊環境安全
+txt_5_8_cp: 字碼頁安全，腳本可能在有不同字碼頁的舊環境觸發問題
+txt_5_8_fs: 由於自由軟體遵循
+txt_5_8_utf: 腳本需要完整的 UTF-8 / Unicode 環境
+txt_5_8_fsr: 由於自由軟體遵循限制 (選項 > 進階)，這個格式不被支援
+txt_5_7_pinstalled: 已安裝
+txt_5_7_pmissing: 遺失
+txt_5_7_plugin: 外掛程式遺失，可以從說明 > 檢查外掛程式和附加元件來安裝
+txt_5_6_basic: 基本
+txt_5_6_exarc: 解壓縮壓縮檔
+txt_5_6_tab: 在新分頁中開啟
+txt_5_6_rc: 按右鍵顯示選項
+txt_5_6_layouts: 儲存的版面
+txt_5_6_upexisting: 更新已存在的壓縮檔
+txt_5_6_verbose: 詳細資訊
+txt_5_5_case: (區分大小寫)
+txt_5_5_add: 在指定的位置加入字串
+txt_5_5_addsel: 加到目前的選取
+txt_5_5_ext: 更改檔案副檔名
+txt_5_5_plugin: 檢查外掛程式和附加元件
+txt_5_5_copypath: 複製路徑
+txt_5_5_delete: 在指定的位置刪除字元
+txt_5_5_halt: 當任務完成時關閉系統
+txt_5_5_positionw: 提示： 1 加到第一個字元之前， 2 第二個， 以此類推... "z" 代表檔案名稱的結尾
+txt_5_5_positionwd: 提示： 1 從第一個包含的字元刪除， 2 第二個， ... "z" 代表檔案名稱的結尾
+txt_5_5_replaceneww: 提示：使用空的新字串來簡單地移除舊字串
+txt_5_5_lower: 小寫
+txt_5_5_replaceoldw: 修改所有檔案名稱中匹配的字串或字元
+txt_5_5_newext: 新副檔名
+txt_5_5_new: 新字串
+txt_5_5_n: 要刪除的字元的數量
+txt_5_5_old: 舊字串
+txt_5_5_position: 位置（數字或用"z"來表示結尾）
+txt_5_5_intdir: 在解壓縮到新資料夾時移除多餘的資料夾
+txt_5_5_replacestr: 取代/移除字串
+txt_5_5_datesameday: 與選取的項目同一天
+txt_5_5_datesamehour: 與選取的項目同一個小時
+txt_5_5_datesamemonth: 與選取的項目同一個月
+txt_5_5_datesameweek: 與選取的項目同一個禮拜
+txt_5_5_datesameyear: 與選取的項目同一年
+txt_5_5_scan: 掃描
+txt_5_5_select: 選取
+txt_5_5_similar: 與選取的項目相似
+txt_5_5_starting: 以相同字母開頭
+txt_5_5_string: 要加入的字串
+txt_5_5_subtractsel: 從目前的選擇中排除
+txt_5_5_datehour: 這個小時
+txt_5_5_datemonth: 這個月
+txt_5_5_dateweek: 這個禮拜
+txt_5_5_dateyear: 今年
+txt_5_5_dateday: 今天
+txt_5_5_upper: 大寫
+txt_5_5_extw: 警告：更改副檔名後檔案可能無法使用
+txt_5_4_da: 加入日期
+txt_5_4_deletearchives: 解壓縮後刪除壓縮檔
+txt_5_4_deletefiles: 壓縮後刪除檔案
+txt_5_4_deleteoriginal: 設定在主螢幕中的刪除過程會被附加到腳本。
+txt_5_4_lv: 最後訪問
+txt_5_4_deletearchivesconfirm: 確定要刪除原始壓縮檔嗎？
+txt_5_4_deletefilesconfirm: 確定要刪除原始檔案嗎？
+txt_5_4_used: 被使用
+txt_5_3_profilebest: 最佳壓縮，7Z格式極致等級
 txt_5_3_profileadvanced: 進階壓縮，7Z格式
 txt_5_3_profilenormal: 標準ZIP壓縮，與大多數解壓縮程式相容
 txt_5_3_profileveryfast: 非常快速ZIP壓縮，建議對大型多媒體檔案使用
@@ -271,8 +271,8 @@ txt_3_1_src: 搜尋
 txt_3_1_systmp: 系統暫存
 txt_3_1_languagetools: 翻譯
 txt_3_1_workingdir: 工作中的目錄
-txt_3_0_nonreadableorpw: 存檔無法讀取, 或受密碼保護
-txt_3_0_readablepw: 存檔受密碼保護
+txt_3_0_nonreadableorpw: 壓縮檔無法讀取, 或受密碼保護
+txt_3_0_readablepw: 壓縮檔受密碼保護
 txt_3_0_configure: 配置檔案關聯, 內容功能表及 [傳送到] 功能表
 txt_3_0_resettmp: 重設 peazip-tmp
 txt_2_9_address: 位址列
@@ -280,7 +280,7 @@ txt_2_9_adv: 當任一檔案經由 7z 或 FreeArc 支援後套用進階過濾器
 txt_2_9_columns: 欄
 txt_2_9_copyhere: 複製這裡
 txt_2_9_noscan: 已加入的樣板不要再掃描檔案
-txt_2_9_extconsole: 僅在瀏覽存檔時可以使用提取控制
+txt_2_9_extconsole: 僅在瀏覽壓縮檔時可以使用解壓縮主控台
 txt_2_9_thl: 高亮按鈕
 txt_2_9_home: 首頁
 txt_2_9_lt: 大
@@ -296,26 +296,26 @@ txt_2_9_selected: 選取
 txt_2_9_setapps: 設定優先的應用程式
 txt_2_9_showmenu: 顯示功能表列
 txt_2_9_st: 小
-txt_2_9_test_pw2G: 測試加密 <2GB 存檔
+txt_2_9_test_pw2G: 測試加密 <2GB 的壓縮檔
 txt_2_9_vst: 僅限文字
 txt_2_9_toolbar: 工具列
 txt_2_9_tree: 樹狀
 txt_2_9_views: 檢視
 txt_2_8_experimental: (試驗性的)
 txt_2_8_zcopy: (Windows) 在重新啟動複製檔案, 較慢
-txt_2_8_addvol: 新增整個容量到存檔可能要花很長的時間, 無論如何都要繼續?
+txt_2_8_addvol: 新增整個磁碟區到壓縮檔可能要花很長的時間, 無論如何都要繼續?
 txt_2_8_uniterror: 不能存取單位
-txt_2_8_cannotconvert: 不能轉換已選取的存檔
+txt_2_8_cannotconvert: 不能轉換已選取的壓縮檔
 txt_2_8_convertbegin: 要繼續壓縮直到結束轉換?
 txt_2_8_convert: 轉換
-txt_2_8_convertexisting: 轉換已存在的存檔
+txt_2_8_convertexisting: 轉換已存在的壓縮檔
 txt_2_8_convertdelete: 轉換刪除的檔案及資料夾所建立的暫存檔?
 txt_2_8_details: 詳細內容
 txt_2_8_parallel: 可能的話在 parallel 執行工作
-txt_2_8_convertnote: 在任何情況下原始存檔都不會變更, 讓使用者自行控制要保留或移除它們
-txt_2_8_custom: 不是由 PeaZip 直接支援, 但在提取時您可以在 [進階] 標籤設定由 PeaZip 棧控制自訂檔案的類型. 要繼續開啟這個檔案?
-txt_2_8_unitrecommend: 這是建議的提取方式 (滑鼠右鍵 > 提取選取的) 或, 從電腦根目錄開啟檔案系統 (系統工具 > 開啟單位為存檔)
-txt_2_8_viewasarchive: 開啟單位為存檔
+txt_2_8_convertnote: 在任何情況下原始壓縮檔都不會變更, 讓使用者自行控制要保留或移除它們
+txt_2_8_custom: 不是由 PeaZip 直接支援, 但在解壓縮時您可以在 [進階] 標籤設定由 PeaZip 棧控制自訂檔案的類型. 要繼續開啟這個檔案?
+txt_2_8_unitrecommend: 這是建議的解壓縮方式 (滑鼠右鍵 > 解壓縮選取的) 或, 從電腦根目錄開啟檔案系統 (系統工具 > 開啟單位為壓縮檔)
+txt_2_8_viewasarchive: 開啟單位為壓縮檔
 txt_2_8_nounit: 沒有選取單位
 txt_2_8_rowselect: 選取行
 txt_2_8_statusbar: 狀態列
@@ -323,37 +323,37 @@ txt_2_8_typeunit: 鍵入實際或虛擬的單位名稱
 txt_2_8_usedefaultoutpath: 使用預設的輸出路徑
 txt_2_7_experimental: (試驗性的, 請查看文件)
 txt_2_7_optional: (選項)
-txt_2_7_list_tryflatorpw: , 可能解決方法: 試著平面檢視 (F6), 提供密碼 (F9), 取得未處理過的存檔副本
-txt_2_7_separate: 新增每個物件到分割的存檔
-txt_2_7_pwsupported: 使用密碼存檔
+txt_2_7_list_tryflatorpw: , 可能解決方法: 試著平面檢視 (F6), 提供密碼 (F9), 取得未處理過的壓縮檔副本
+txt_2_7_separate: 新增每個物件到分別的壓縮檔
+txt_2_7_pwsupported: 使用密碼來壓縮
 txt_2_7_cancel: 取消
 txt_2_7_encfn: 也將檔案名稱加密 (如果支援此格式)
 txt_2_7_setpw: 輸入密碼/金鑰檔
-txt_2_7_ext: 提取中:
-txt_2_7_extfrom: 從存檔提取:
-txt_2_7_es: 提取已支援的非存檔類型, 例如: 可執行檔, MS Office 及 OOo 檔
-txt_2_7_eu: 提取未支援的檔案類型, 指定自訂提取的公用程式.
+txt_2_7_ext: 解壓縮中:
+txt_2_7_extfrom: 從壓縮檔解壓縮:
+txt_2_7_es: 解壓縮已支援的非封存類型, 例如: 可執行檔, MS Office 及 OOo 檔
+txt_2_7_eu: 解壓縮未支援的檔案類型, 指定自訂解壓縮的公用程式.
 txt_2_7_clipboard: 檔案瀏覽的剪貼簿
-txt_2_7_goarclayout: 前往存檔樣板
-txt_2_7_goextlayout: 前往提取樣板
+txt_2_7_goarclayout: 前往壓縮版面
+txt_2_7_goextlayout: 前往解壓縮版面
 txt_2_7_ok: 確定
-txt_2_7_drag_archive: 開啟檔寀為新存檔? ("否" 新增檔案到目前刈\存檔樣板)
+txt_2_7_drag_archive: 開啟檔案為新壓縮檔? ("否" 來加入檔案到目前壓縮配置)
 txt_2_7_oop: 當工作完成, 開啟輸出路徑
 txt_2_7_validatefn: 操作已停止, 偵測到無效的檔案名稱:
 txt_2_7_validatecl: 操作已停止, 偵測到潛在的風險命令(例如, 程式內不允許連續命令):
 txt_2_7_output: 匯出
 txt_2_7_pwnotset: 未設定密碼
 txt_2_7_pwarcset: 密碼設定
-txt_2_7_pwextset: 密碼設定, 可能到 提取/列表/測試, 已加密的存檔
-txt_2_7_archivehint: 按右鍵新增檔案到存檔, 並查看其他有效的功能, 或拖曳這裡的檔案加入
-txt_2_7_exthint: 按右鍵加入檔案到提取,並查看其他有效的功能, 或拖曳這裡的檔案到提取
+txt_2_7_pwextset: 密碼設定, 可能到 解壓縮/列表/測試, 已加密的壓縮檔
+txt_2_7_archivehint: 拖曳檔案和資料夾到這裡來壓縮，或按右鍵查看更多選項
+txt_2_7_exthint: 拖曳壓縮檔到這裡來解壓縮，或按右鍵查看更多選項
 txt_2_7_setadvf: 設定進階過濾器
 txt_2_7_selpath: 已選取項目的路徑
-txt_2_7_separateerror: 抱歉, 當使切換用 "新增每一個物件到分割的存檔" 時不能匯入工作定義的命令行,此工作已以多重命令執行了
-txt_2_7_noinput: 這個樣版是空的: 諘使用新增檔案或載入存檔樣板列表來提取
+txt_2_7_separateerror: 抱歉, 當使切換用 "新增每一個物件到分別的壓縮檔" 時不能匯入工作定義的命令行,此工作已以多重命令執行了
+txt_2_7_noinput: 這個樣版是空的: 請使用新增檔案或載入壓縮檔樣板列表來解壓縮
 txt_2_7_dirsize: 這個資料夾的大小沒有核選來計算總大小
 txt_2_7_un7z_browse_flat: 嘗試平面檢視 (F6)
-txt_2_7_updating: 上傳, 新增到已存在的存檔:
+txt_2_7_updating: 上傳, 新增到已存在的壓縮檔:
 txt_2_6_folders: (資料夾)
 txt_2_6_advanced: 進階 
 txt_2_6_plalways: 總是保持開啟以檢查作業報告
@@ -904,7 +904,7 @@ txt_toolbarscolor: 工具列色彩
 txt_tools: 工具
 txt_best: 嘗試最佳設定(慢)
 txt_type: 類型
-txt_level_ultra: 極度
+txt_level_ultra: 極致
 txt_error_openfile: 不能開啟指定的檔案
 txt_cl_hint: UNACE 和 UPX 總是使用主控台模式執行, 清單, 測試和基準測試作業總是使用圖形使用者介面模式執行
 txt_ace_missing: UNACE 外掛程式遺失; 要處理 ACE 壓縮檔, 您可以從 PeaZip 首頁下載此外掛程式 (因為 UNACE 封閉原始碼, 外掛程式未被包括在基本的套件中)
@@ -936,13 +936,13 @@ txt_zipcrypto_hint: ZipCrypto (legacy)
 
 === PeaLauncher text group ===
 
-txt_5_6_update: Check for updates
-txt_5_6_cml: System context menu language
-txt_5_6_donations: Donations
-txt_5_6_localization: Localization
-txt_5_6_runasadmin: Run as administrator
-txt_5_6_help: Online support
-txt_5_5_cancelall: Cancel all
+txt_5_6_update: 檢查更新
+txt_5_6_cml: 系統內容功能表語言
+txt_5_6_donations: 捐款
+txt_5_6_localization: 本地化
+txt_5_6_runasadmin: 以管理員身分執行
+txt_5_6_help: 線上支援
+txt_5_5_cancelall: 全部取消
 txt_5_3_details: 詳細資料
 txt_5_3_files: 檔案
 txt_5_3_folders: 資料夾
@@ -964,7 +964,7 @@ txt_3_5_close: 關閉
 txt_3_0_details: 模式內容, "報告" 包含工作記錄, 而 "控制" 包含工作定義為命令行
 txt_3_0_hints: 有關錯誤的提示
 txt_3_0_arc: 一些輸入的檔案不能讀取 (可能鎖住, 不能存取或者已經毀損)
-txt_3_0_ext: 此存檔可能會對目前的操作要求不同的密碼
+txt_3_0_ext: 此壓縮檔可能會對目前的操作要求不同的密碼
 txt_2_8_oop: 當工作完成時, 開啟匯出的路徑
 txt_2_7_validatefn: 操作已停止, 偵測到無效的檔案名稱:
 txt_2_7_validatecl: 操作已停止, 偵測到潛在的危險命令 (例如: 在此程式中不允許連續的命令):

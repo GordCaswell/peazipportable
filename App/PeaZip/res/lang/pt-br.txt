@@ -7,10 +7,10 @@ Last rev.: 20160227
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Auto-ajustar colunas
+txt_6_3_cinfo: Info e comentários
+txt_6_3_syn: Sincronizar arquivo com disco
+txt_6_3_uar: Atualizar só arquivos que já estão no arquivo
 txt_6_2_encext: Adicionar sufixo ".enc" nos arquivos criptografados
 txt_6_2_archive: Tipo de arquivo compactado
 txt_6_2_container: Tipo de arquivo no container

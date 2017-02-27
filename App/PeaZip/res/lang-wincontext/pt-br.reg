@@ -46,7 +46,7 @@ Windows Registry Editor Version 5.00
 @="Dividir arquivo"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2convert] 
-@="Convert"
+@="Converter"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\PeaZip.add2wipe]
 @="Deletar seguro"

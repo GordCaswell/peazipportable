@@ -3,22 +3,22 @@ Spanish - Español
 6.3
 Traducido por: Francisco Javier F. Serrador, Mario López, Nosi_982
 Last rev. by: Nosi_982
-Last rev.: 20151011
+Last rev.: 20170109
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
-txt_6_1_ec: Expand / collapse archive tree
+txt_6_3_autoadjust: Ajuste automático de las columnas
+txt_6_3_cinfo: Información y comentarios
+txt_6_3_syn: Sincronizar archivo con el disco
+txt_6_3_uar: Actualizar sólo los ficheros que ya están en el archivo
+txt_6_2_encext: Añadir sufijo ".enc" para los archivos encriptados
+txt_6_2_archive: Tipo de archivo de almacenamiento
+txt_6_2_container: Tipo de contenedor del archivo
+txt_6_1_ec: Expandir/contraer el árbol del archivos
 txt_6_0_msq: Sort by file type for solid compression
-txt_5_9_lff: Analyze files and folders
-txt_5_9_pff: Analyze, show files header/EOF
-txt_5_9_start: Start from
+txt_5_9_lff: Analizar archivos y carpetas
+txt_5_9_pff: Analizar, mostrar encabezado/EOF de los archivos
+txt_5_9_start: Empezar desde
 txt_5_8_l0: Permitir cualquier fomato
 txt_5_8_l1: Permitir sólo archivos de licencia gratuita
 txt_5_8_l2: Permitir sólo archivos de formato libre
@@ -710,7 +710,7 @@ txt_level_maximun: Máximo
 txt_restartrequired: Puede requirir reiniciar
 txt_required_memory: MB de memoria necesaria
 txt_method: Método
-txt_misc: Variado
+txt_misc: Otros
 txt_modify: Modificar
 txt_morecontrols: Más controles (historia, favoritos...)
 txt_morerecent: Más reciente que el objeto seleccionado
@@ -843,7 +843,7 @@ txt_selected_objects: Los objetos seleccionados
 txt_sfx: Autoextracción
 txt_sendbymail: Enviar por email
 txt_set_defaults: Definir parámetros de aplicación predeterminados
-txt_settings: Configuraciones
+txt_settings: Configuración
 txt_sfx_interface: Interfaz SFX
 txt_showhints: Mostrar sugerencias
 txt_show_messages: Mostrar mensajes de información
@@ -970,7 +970,7 @@ txt_2_7_validatefn: Operación detenida, se ha detectado un nombre del archivo i
 txt_2_7_validatecl: Operación detenida, detectado comando potencialmente peligroso (ej: comando concatenado no permitido dentro del programa):
 txt_2_6_open: Abrir archivo
 txt_2_5_ace_missing: Falta el complemento UNACE; para utilizar los archivos ACE puede descargar el complemento del sitio web de PeaZip (siendo UNACE código restringido, el complemento no forma parte del paquete básico)
-txt_2_3_pw_errorchar_gwrap: : este caracter no puede utilizarse en contraseñas con PeaLauncher con el actual sistema operativo, por favor, cambie la contraseña o utilice PeaZip en modo Consola (Herramientas > Configuraciones)
+txt_2_3_pw_errorchar_gwrap: : este caracter no puede utilizarse en contraseñas con PeaLauncher con el actual sistema operativo, por favor, cambie la contraseña o utilice PeaZip en modo Consola (Herramientas > Configuración)
 txt_2_3_renameexisting: Renombrado automático de los archivos existentes
 txt_2_3_renameextracted: Renombrado automático de los archivos extraídos
 txt_2_3_cancel: Cancelar
@@ -1106,8 +1106,8 @@ Para formatos ZIP y 7Z, también es posible para permitir entradas del menú con
 
 
 CONFIGURA LA APLICACIÓN
-Opciones > Idioma (en Optiones > Configuraciones, en General(1)) para cambiar el idioma de la aplicion.
-Opciones > Configuraciones para cambiar configuracion del programa.
+Opciones > Idioma (en Optiones > Configuración, en General(1)) para cambiar el idioma de la aplicion.
+Opciones > Configuración para cambiar configuracion del programa.
 Opciones > Tema para cambiar la apariencia del programa
 Opciones > Integración con el Sistema inicia el programa de configuración de la integración, y en el menu contextual en Enviar(en Windows)
 Organiza el menú contiene la entrada de personalizar, activar o desactivar funciones del navegador, como barra de herramientas, barra de direcciones, barra de navegación, etc

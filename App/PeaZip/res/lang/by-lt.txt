@@ -3,14 +3,14 @@ Belarusian-Latin
 6.3
 Translated by: MiHLitvin (mih@mail-me.com)
 Last rev. by: MiHLitvin
-Last rev.: 28.11.2016
+Last rev.: 11.01.2017
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Samapadładka słupkoŭ
+txt_6_3_cinfo: Źviestki j kamentary
+txt_6_3_syn: Synchranizacyja archiva z dyskam
+txt_6_3_uar: Abnaŭlać tolki najaŭnyja ŭ archivie fajły
 txt_6_2_encext: Dadavać ".enc" da imia zašyfravanych archivaŭ
 txt_6_2_archive: Typ archiva
 txt_6_2_container: Typ kantejneru

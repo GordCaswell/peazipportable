@@ -3,14 +3,14 @@ Belarusian-Cyrillic
 6.3
 Translated by: MiHLitvin (mih@mail-me.com)
 Last rev. by: MiHLitvin
-Last rev.: 28.11.2016
+Last rev.: 11.01.2017
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Самападладка слупкоў
+txt_6_3_cinfo: Зьвесткі й камэнтары
+txt_6_3_syn: Сынхранізацыя архіва з дыскам
+txt_6_3_uar: Абнаўляць толькі наяўныя ў архіве файлы
 txt_6_2_encext: Дадаваць ".enc" да імя зашіфраваных архіваў
 txt_6_2_archive: Тып архіва
 txt_6_2_container: Тып кантэйнэру

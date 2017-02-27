@@ -3,14 +3,14 @@ Norwegian - Norsk
 6.3
 Oversatt av: Rune C. Akselsen, Arne Hanssen
 Sist rev. av: Arne Hanssen
-Sist revidert: 20161112
+Sist revidert: 20170103
 
 === PeaZip text group ===
 
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
+txt_6_3_autoadjust: Autotilpass kolonner
+txt_6_3_cinfo: Info og kommentarer
+txt_6_3_syn: Synkroniser arkiv med disk
+txt_6_3_uar: Oppdager kun filer allerede i arkiv
 txt_6_2_encext: Legg til endelsen ".enc" til krypterte arkiver
 txt_6_2_archive: Arkiver filtype
 txt_6_2_container: Pakket filtype
